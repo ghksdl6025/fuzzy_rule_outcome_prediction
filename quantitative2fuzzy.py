@@ -6,7 +6,7 @@ import math
 import sys
 
 sys.path.insert(0,'./Utils/')
-import plot_membership
+import get_membership
 # df = pd.read_csv('../new paper/bpic2015/ltl1/BPIC15_1prep.csv')
 
 def normalize_atts(df,att,prefix):
@@ -50,8 +50,8 @@ if __name__ =='__main__':
     # df = pd.read_csv('../new paper/bpic2011/ltl1/bpic2011prep.csv')
     duration,cumduration =normalize_atts(df,'Complete Timestamp',prefix)    
     # print(duration)
-    membership_function = plot_membership.membership_f(plot_membership.uniform_plotting_membership(5))
-    locs = [x[0] for x in plot_membership.uniform_plotting_membership(5).values()]
+    membership_function = get_membership.membership_f(get_membership.uniform_plotting_membership(5))
+    locs = [x[0] for x in get_membership.uniform_plotting_membership(5).values()]
     alloc =[]
     for loc in locs:
         alloc +=loc
