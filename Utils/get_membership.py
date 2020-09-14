@@ -31,11 +31,12 @@ def uniform_plotting_membership(interval_number):
             membership_loc[interval_name] = [total_interval[2*x-1:2*x-1+4], membership_f_mid]
             
 
+
     ax.spines['top'].set_visible(False)
     ax.set_xlim(0,1)
     ax.set_ylim(0,1)
     plt.tight_layout()
-    # plt.savefig('./membership_function.png')
+    # plt.savefig('./uniform_membership_function.png')
     return membership_loc
 
 def membership_f(membership_loc):
