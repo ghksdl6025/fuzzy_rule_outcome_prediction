@@ -7,6 +7,10 @@ suhwan Lee
 
 ## Update
 
+20.09.15
+
+- Still writing code for generating association rules from fuzzified item set dataframe
+
 20.09.14
 
 - Update quantitative2fuzzy.py file generating **fuzzified event log**.

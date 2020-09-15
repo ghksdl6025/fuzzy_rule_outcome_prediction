@@ -11,6 +11,23 @@ import get_membership
 # df = pd.read_csv('../new paper/bpic2015/ltl1/BPIC15_1prep.csv')
 
 def normalize_atts(df,att,prefix):
+    '''
+    Slice event log by prefix length and normalize target attributes in min max scaling which has range [0,1]
+
+    Parameters
+    ----------
+    df : Dataframe 
+        that used in this fundction
+    atts : list
+        list that contains attributes to normalize
+    prefix : int
+        Prefix length for slicing event log that all cases are longer than prefix length.
+    In this sample case, only timestamp is used to generate duration and cumulative duration.
+
+    Returns
+    ----------
+    Dataframe with case id, duration, cumulative duration, and label. 
+    '''
     df = df.rename(columns={'case_id':'Case ID','timestamp':'Complete Timestamp'})
     df['Complete Timestamp'] = pd.to_datetime(df['Complete Timestamp'])
     groups = df.groupby('Case ID')
@@ -50,7 +67,18 @@ def normalize_atts(df,att,prefix):
     return df
 
 def generate_membership_label(membership_number):
+    '''
+    Custom function to convert membership label from generate_membership_label to preferred names
 
+    Parameters
+    ----------
+    membership_number : int
+        Number of membership class to make preferred names
+    
+    Returns
+    ----------
+    Dictionary which has key as membership label to change and value as preferred name
+    '''
     membership_label ={}
     midpoint = (1+(membership_number//2))
     for m in range(1,membership_number+1):
@@ -66,16 +94,22 @@ def generate_membership_label(membership_number):
 
 
 
-def time2fuzzification(df,_):
-    pass
+def time2fuzzification(df,membership_number):
+    '''
+    Get dataframe with quantitative attributes and fuzzify items and return dataframe with fuzzified itemsets.
+    (In this case only time related attributes are used, duration and cumulative duration)
 
-if __name__ =='__main__':
-    prefix = 3
-    membership_number = 5
-    # df = pd.read_csv('../special_topics/data/hospital_billing.csv')
-    df = pd.read_csv('../new paper/bpic2011/ltl1/bpic2011prep.csv')
+    Parameters
+    ----------
+    df : pandas dataframe
+        Dataframe wtih quantitative attributes
+    membership_number : int
+        Number of membership class to make preferred names
     
-    normalized_time_df =normalize_atts(df,'Complete Timestamp',prefix)    
+    Returns
+    ----------
+    Dataframe with fuzzified itemsets
+    '''
     membership_label = generate_membership_label(membership_number)    
     membership_function = get_membership.membership_f(get_membership.uniform_plotting_membership(membership_number))
     
@@ -108,7 +142,6 @@ if __name__ =='__main__':
                     for pos, interval in enumerate(membership_function[membership]['Split_interval']):
                         if interval[1] >= dur > interval[0]:
                             membership_value = membership_function[membership]['Value'][pos][0] * dur + membership_function[membership]['Value'][pos][1]
-                            totalmembership_value = (mlabel_prefix+membership_label[membership], membership_value)
                             fuzzy_set[mlabel_prefix+membership_label[membership]] = membership_value
             for t in fuzzy_set.keys(): membership_labelset.add(t)
 
@@ -125,7 +158,6 @@ if __name__ =='__main__':
                     for pos, interval in enumerate(membership_function[membership]['Split_interval']):
                         if interval[1] >= dur > interval[0]:
                             membership_value = membership_function[membership]['Value'][pos][0] * dur + membership_function[membership]['Value'][pos][1]
-                            totalmembership_value = (mlabel_prefix+membership_label[membership], membership_value)
                             fuzzy_set[mlabel_prefix+membership_label[membership]] = membership_value
             for t in fuzzy_set.keys(): membership_labelset.add(t)
 
@@ -133,8 +165,18 @@ if __name__ =='__main__':
         fuzzy_set['Label'] = label
         fuzzy_set_list.append(fuzzy_set)
 
-    df_list =[]
     dfk = pd.DataFrame.from_dict(fuzzy_set_list,orient='columns')
     dfk = dfk.fillna(0)
-    dfk.to_csv('./fuzzyified_eventlog.csv',index=False)
+    return dfk
+
+
+if __name__ =='__main__':
+    prefix = 3
+    membership_number = 5
+    # df = pd.read_csv('../special_topics/data/hospital_billing.csv')
+    df = pd.read_csv('../new paper/bpic2011/ltl1/bpic2011prep.csv')
+    
+    normalized_time_df =normalize_atts(df,'Complete Timestamp',prefix)    
+    fuzzified_df = time2fuzzification(df,membership_number)
+    print(fuzzified_df.head)
 
