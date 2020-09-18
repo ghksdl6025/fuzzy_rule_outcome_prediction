@@ -1,7 +1,7 @@
 import pandas as pd
 
-fuzzified_df = pd.read_csv('./fuzzified.csv')
-ohe_df = pd.read_csv('../new paper/sepsis/rule1/indexbase/prefix5/simple_timediscretize/ARMinput_preprocessed.csv')
+fuzzified_df = pd.read_csv('./bpic2015_fuzzified.csv')
+ohe_df = pd.read_csv('../new paper/bpic2015/ltl1/bpic2015_1/indexbase/prefix5/simple_timediscretize/ARMinput_preprocessed.csv')
 # print(fuzzified_df.columns.values)
 droplist = []
 for t in list(ohe_df.columns.values):
@@ -21,6 +21,11 @@ for col in dfn.columns.values:
 
     if len([x for x in list(label0df[col]) if x != 0]) >= int(len(label0df)*0.1):
         meaningfulcol.add(col)
+
+for t in list(meaningfulcol):
+    if 'Nan' in t:
+        meaningfulcol.remove(t)
 dfn = dfn.loc[:,list(meaningfulcol)]
-print(dfn.shape)
-dfn.to_csv('./concatanated_fuzzy_tx.csv')
+
+
+dfn.to_csv('./bpic2015_concatanated_fuzzy_tx.csv')

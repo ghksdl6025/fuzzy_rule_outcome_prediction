@@ -48,16 +48,19 @@ def fuzzy_frequent_itemset_mining(df,target_label,min_supp):
     dfcolumn = np.array(df.columns.values)
     
     itemset_frequency = {}
+    rowposition_dict ={}
+    for pos,k in enumerate(dfrule_value):
+        rowposition = [x for x in range(len(k)) if k[x] != 0]
+        rowposition_dict[pos] = rowposition
     print('Getting sub itemset for FIM')
     for pos,k in enumerate(dfrule_value):
        
-        print(pos,'/', len(dfrule_value), len(itemset_frequency))
-        rowposition = [x for x in range(len(k)) if k[x] != 0]
+        rowposition = rowposition_dict[pos]
+        print(pos,'/', len(dfrule_value),len(rowposition) ,len(itemset_frequency))
         itemset = dfcolumn[rowposition]
         itemset = itemset[itemset != target_label]
-        for x in range(1,len(itemset)+1):
+        for x in tqdm(range(1,len(itemset)+1)):
             itemset_group =set()
-
             for item in list(combinations(itemset,x)):
                 item = set(item)
                 item.add(target_label)
@@ -68,8 +71,8 @@ def fuzzy_frequent_itemset_mining(df,target_label,min_supp):
                 if item in itemset_frequency.keys():
                     pass
                 else:
-                    for k in dfrule_value:
-                        rowposition = [x for x in range(len(k)) if k[x] != 0]
+                    for pos,k in enumerate(dfrule_value):
+                        rowposition = rowposition_dict[pos]
                         transaction_items = dfcolumn[rowposition]
                         if item.issubset(transaction_items):
                             dfcolumn =  np.array(dfcolumn)
@@ -90,7 +93,7 @@ def fuzzy_frequent_itemset_mining(df,target_label,min_supp):
 
 
 if __name__ =='__main__':
-    df = pd.read_csv('./concatanated_fuzzy_tx.csv')
+    df = pd.read_csv('./bpic2015_concatanated_fuzzy_tx.csv')
     dft = divide_label(df)
     dft = dft.drop(columns=['Case ID'],axis=1)
     label1rule = dft[dft['Label_1']==1].drop(columns=['Label_0'],axis=1)

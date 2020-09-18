@@ -160,8 +160,9 @@ if __name__ =='__main__':
     prefix = 5
     membership_number = 5
     # df = pd.read_csv('../special_topics/data/hospital_billing.csv')
-    df = pd.read_csv('../new paper/sepsis/Sepsis Cases_pre.csv')
 
+    df = pd.read_csv('../new paper/sepsis/Sepsis Cases_pre.csv')
+    df = pd.read_csv('../new paper/bpic2015/ltl1/BPIC15_1prep.csv')
     normalized_time_df,quantitative_atts =normalize_atts(df,'Complete Timestamp',prefix,'SigmoidNormalize')    
     fuzzified_df = time2fuzzification(normalized_time_df,membership_number,quantitative_atts)
-    fuzzified_df.to_csv('./fuzzified.csv',index=False)
+    fuzzified_df.to_csv('./bpic2015_fuzzified.csv',index=False)
