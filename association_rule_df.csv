@@ -1,0 +1,888 @@
+Itemset,Support
+"frozenset({'Cumuration2_SS', 'Duration_3_M', 'Label_1', 'Cumuration3_M'})",0.0013359782608695651
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS'})",0.0049639565217391305
+"frozenset({'Label_1', 'Duration_2_S', 'Cumuration3_S', 'Duration_3_SS'})",0.0049639565217391305
+"frozenset({'Duration_2_S', 'Duration_2_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration3_SS', 'Cumuration2_S', 'Cumuration3_S', 'Label_1'})",0.002625565217391304
+"frozenset({'Cumuration3_S', 'Duration_2_SS', 'Cumuration1_SS', 'Duration_3_SS', 'Label_1', 'Duration_3_S'})",0.0015006521739130434
+"frozenset({'Cumuration1_SS', 'Label_1', 'Duration_2_SS'})",0.9928621304347827
+"frozenset({'Cumuration3_S', 'Duration_2_SS', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_3_M', 'Cumuration3_S', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS'})",0.0013359782608695651
+"frozenset({'Cumuration2_SS', 'Label_1'})",0.9928621304347827
+"frozenset({'Duration_2_S', 'Duration_2_SS', 'Label_1', 'Duration_1_SS', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Cumuration3_S', 'Duration_2_SS', 'Cumuration1_SS', 'Label_1', 'Cumuration3_SS'})",0.004077717391304347
+"frozenset({'Cumuration3_S', 'Label_1', 'Cumuration1_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration3_SS'})",0.004077717391304347
+"frozenset({'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Cumuration3_M', 'Duration_1_SS', 'Cumuration2_SS'})",0.0013359782608695651
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Cumuration2_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Label_1', 'Cumuration3_S', 'Cumuration2_S'})",0.0049639565217391305
+"frozenset({'Cumuration3_LL', 'Duration_2_LL', 'Cumuration2_LL', 'Label_1', 'Duration_1_SS'})",0.002173913043478261
+"frozenset({'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Cumuration3_M'})",0.0013359782608695651
+"frozenset({'Duration_3_M', 'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Cumuration2_SS', 'Duration_1_SS'})",0.0013359782608695651
+"frozenset({'Cumuration3_S', 'Label_1', 'Cumuration1_SS', 'Cumuration3_M', 'Cumuration2_SS', 'Duration_1_SS'})",0.0013359782608695651
+"frozenset({'Cumuration3_S', 'Duration_2_SS', 'Cumuration1_SS', 'Label_1', 'Cumuration3_SS', 'Duration_3_S'})",0.0009307173913043476
+"frozenset({'Label_1', 'Duration_3_M', 'Cumuration3_S'})",0.0013359782608695651
+"frozenset({'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Cumuration3_S', 'Label_1', 'Cumuration1_SS', 'Cumuration3_M', 'Cumuration2_SS', 'Duration_1_SS', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Cumuration2_SS', 'Cumuration3_SS'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Label_1', 'Duration_3_SS', 'Cumuration2_SS'})",0.002625565217391304
+"frozenset({'Label_1', 'Cumuration1_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration3_SS'})",0.9821652826086956
+"frozenset({'Cumuration3_LL', 'Cumuration1_SS', 'Duration_3_SS', 'Duration_2_LL', 'Label_1'})",0.002173913043478261
+"frozenset({'Duration_2_SS', 'Duration_3_SS', 'Label_1', 'Duration_1_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_3_M', 'Cumuration3_S', 'Duration_2_SS', 'Cumuration1_SS', 'Label_1', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Cumuration1_SS', 'Duration_2_LL', 'Cumuration2_LL', 'Label_1', 'Duration_1_SS'})",0.002173913043478261
+"frozenset({'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Duration_3_S'})",0.0015006521739130434
+"frozenset({'Label_1', 'Duration_2_S', 'Duration_2_SS'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Label_1', 'Cumuration1_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration3_SS'})",0.002625565217391304
+"frozenset({'Label_1', 'Duration_2_SS', 'Cumuration3_M', 'Cumuration2_SS', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Duration_2_S', 'Duration_2_SS', 'Cumuration2_SS', 'Cumuration3_SS', 'Cumuration2_S', 'Cumuration3_S', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Duration_1_SS'})",0.002625565217391304
+"frozenset({'Duration_2_SS', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS', 'Cumuration3_SS'})",0.9821652826086956
+"frozenset({'Duration_2_S', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration3_SS', 'Cumuration3_S', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Label_1', 'Cumuration2_SS', 'Cumuration3_SS'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Duration_2_SS', 'Label_1', 'Duration_1_SS'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Cumuration1_SS', 'Duration_3_SS', 'Label_1', 'Cumuration2_S'})",0.0049639565217391305
+"frozenset({'Cumuration3_S', 'Label_1', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration3_SS', 'Duration_3_S'})",0.0009307173913043476
+"frozenset({'Cumuration3_S', 'Duration_3_SS', 'Label_1', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Label_1', 'Cumuration3_LL', 'Duration_1_SS', 'Cumuration1_SS'})",0.002173913043478261
+"frozenset({'Cumuration3_S', 'Duration_2_SS', 'Cumuration1_SS', 'Duration_3_SS', 'Label_1', 'Duration_1_SS'})",0.005306347826086955
+"frozenset({'Duration_2_S', 'Duration_2_SS', 'Duration_3_SS', 'Label_1', 'Duration_1_SS', 'Cumuration3_SS'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS', 'Cumuration3_SS'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Cumuration3_S', 'Duration_2_SS', 'Label_1', 'Duration_1_SS', 'Cumuration3_SS'})",0.004077717391304347
+"frozenset({'Duration_2_S', 'Label_1', 'Cumuration1_SS', 'Cumuration2_SS', 'Cumuration3_SS'})",0.002625565217391304
+"frozenset({'Cumuration2_SS', 'Label_1', 'Cumuration1_SS'})",0.9928621304347827
+"frozenset({'Duration_2_S', 'Duration_2_SS', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS'})",0.002625565217391304
+"frozenset({'Label_1', 'Duration_2_SS'})",0.9928621304347827
+"frozenset({'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration3_SS', 'Duration_3_S'})",0.0009307173913043476
+"frozenset({'Duration_3_M', 'Cumuration3_S', 'Label_1', 'Cumuration3_M', 'Duration_1_SS', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Cumuration3_LL', 'Cumuration1_SS', 'Duration_3_SS', 'Label_1', 'Duration_1_SS'})",0.002173913043478261
+"frozenset({'Cumuration2_SS', 'Label_1', 'Cumuration3_SS', 'Duration_3_S'})",0.0009307173913043476
+"frozenset({'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration3_SS'})",0.004077717391304347
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Label_1', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration3_SS'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Label_1', 'Duration_1_SS', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Cumuration3_S', 'Label_1', 'Cumuration1_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Duration_3_S'})",0.007610804347826087
+"frozenset({'Duration_3_M', 'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Cumuration3_M', 'Cumuration2_SS', 'Duration_1_SS'})",0.0013359782608695651
+"frozenset({'Label_1', 'Duration_3_M', 'Cumuration3_S', 'Cumuration1_SS'})",0.0013359782608695651
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Label_1', 'Cumuration2_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Duration_2_SS', 'Label_1', 'Duration_1_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Label_1', 'Duration_1_SS', 'Cumuration1_SS', 'Duration_3_S'})",0.007610804347826087
+"frozenset({'Label_1', 'Cumuration1_SS', 'Cumuration2_SS', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Cumuration3_LL', 'Duration_1_SS', 'Duration_3_SS', 'Duration_2_LL', 'Label_1', 'Cumuration2_LL'})",0.002173913043478261
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Duration_3_SS', 'Label_1', 'Duration_1_SS', 'Cumuration2_S'})",0.0049639565217391305
+"frozenset({'Duration_2_SS', 'Cumuration1_SS', 'Duration_3_SS', 'Label_1', 'Duration_3_S'})",0.0015006521739130434
+"frozenset({'Cumuration3_LL', 'Cumuration1_SS', 'Duration_3_SS', 'Cumuration2_LL', 'Label_1'})",0.002173913043478261
+"frozenset({'Label_1', 'Duration_2_S', 'Cumuration1_SS', 'Cumuration3_SS'})",0.002625565217391304
+"frozenset({'Duration_3_M', 'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Cumuration3_M', 'Cumuration2_SS', 'Duration_1_SS'})",0.0013359782608695651
+"frozenset({'Label_1', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_3_M', 'Cumuration3_S', 'Label_1', 'Cumuration1_SS', 'Cumuration3_M', 'Duration_1_SS'})",0.0013359782608695651
+"frozenset({'Duration_2_S', 'Label_1', 'Cumuration1_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Cumuration1_SS', 'Duration_3_SS', 'Label_1', 'Duration_1_SS'})",0.0049639565217391305
+"frozenset({'Duration_3_M', 'Duration_2_SS', 'Label_1', 'Duration_1_SS', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Duration_2_SS', 'Cumuration1_SS', 'Duration_3_SS', 'Label_1', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Duration_2_SS', 'Duration_3_SS', 'Label_1', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Label_1', 'Duration_2_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration3_SS', 'Duration_3_S'})",0.0009307173913043476
+"frozenset({'Cumuration3_M', 'Label_1', 'Cumuration1_SS', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Cumuration3_M', 'Label_1', 'Duration_2_SS'})",0.0013359782608695651
+"frozenset({'Duration_2_S', 'Duration_2_SS', 'Duration_3_SS', 'Cumuration2_S', 'Cumuration3_S', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS'})",0.002625565217391304
+"frozenset({'Label_1', 'Duration_3_M', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Cumuration2_SS', 'Duration_1_SS', 'Label_1', 'Duration_3_SS'})",0.983915347826087
+"frozenset({'Label_1', 'Duration_3_M'})",0.0013359782608695651
+"frozenset({'Cumuration3_S', 'Label_1', 'Duration_3_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration3_SS', 'Duration_3_S'})",0.0009307173913043476
+"frozenset({'Duration_2_S', 'Duration_2_SS', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Duration_3_SS', 'Label_1', 'Duration_1_SS', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Duration_2_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration3_SS', 'Cumuration3_S', 'Label_1', 'Duration_1_SS'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Duration_3_SS', 'Label_1', 'Duration_1_SS', 'Cumuration2_S'})",0.0049639565217391305
+"frozenset({'Cumuration3_M', 'Cumuration3_S', 'Label_1', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Duration_2_S', 'Duration_2_SS', 'Cumuration1_SS', 'Label_1', 'Cumuration3_SS'})",0.002625565217391304
+"frozenset({'Cumuration3_S', 'Label_1', 'Cumuration1_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration3_SS', 'Duration_3_S'})",0.0009307173913043476
+"frozenset({'Cumuration3_S', 'Duration_2_SS', 'Cumuration1_SS', 'Label_1', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Cumuration3_M', 'Cumuration2_SS'})",0.0013359782608695651
+"frozenset({'Duration_2_S', 'Label_1', 'Cumuration1_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Cumuration1_SS', 'Label_1', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Cumuration2_SS', 'Cumuration3_S', 'Label_1', 'Duration_3_S'})",0.007610804347826087
+"frozenset({'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_3_M', 'Cumuration3_S', 'Label_1', 'Cumuration2_SS', 'Duration_1_SS'})",0.0013359782608695651
+"frozenset({'Cumuration2_SS', 'Duration_3_M', 'Duration_1_SS', 'Label_1'})",0.0013359782608695651
+"frozenset({'Cumuration3_M', 'Duration_3_M', 'Label_1', 'Cumuration1_SS'})",0.0013359782608695651
+"frozenset({'Duration_2_S', 'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration3_SS'})",0.002625565217391304
+"frozenset({'Duration_3_M', 'Label_1', 'Cumuration1_SS', 'Cumuration3_M', 'Cumuration2_SS', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Cumuration3_S', 'Label_1', 'Duration_3_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Duration_3_S'})",0.0015006521739130434
+"frozenset({'Duration_3_M', 'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Cumuration2_SS'})",0.0013359782608695651
+"frozenset({'Cumuration2_SS', 'Duration_2_S', 'Label_1', 'Duration_3_SS'})",0.002625565217391304
+"frozenset({'Cumuration3_S', 'Duration_2_SS', 'Label_1', 'Duration_1_SS', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Label_1', 'Cumuration1_SS', 'Cumuration2_SS', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_3_M', 'Cumuration3_S', 'Label_1', 'Cumuration3_M', 'Cumuration2_SS', 'Duration_1_SS', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Cumuration3_S', 'Label_1', 'Cumuration3_M', 'Cumuration2_SS', 'Duration_1_SS', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Cumuration3_S', 'Label_1', 'Cumuration3_M', 'Cumuration2_SS', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration3_SS'})",0.002625565217391304
+"frozenset({'Cumuration2_SS', 'Label_1', 'Duration_2_SS', 'Cumuration3_M'})",0.0013359782608695651
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS', 'Cumuration2_S'})",0.0049639565217391305
+"frozenset({'Label_1', 'Duration_2_S', 'Cumuration1_SS'})",0.0049639565217391305
+"frozenset({'Duration_2_SS', 'Duration_3_SS', 'Label_1', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Cumuration2_SS', 'Duration_1_SS'})",0.9928621304347827
+"frozenset({'Label_1', 'Cumuration3_S', 'Cumuration1_SS', 'Cumuration2_S'})",0.0049639565217391305
+"frozenset({'Cumuration3_S', 'Label_1', 'Cumuration1_SS', 'Cumuration3_M', 'Duration_1_SS'})",0.0013359782608695651
+"frozenset({'Duration_2_S', 'Duration_2_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration3_SS', 'Cumuration2_S', 'Cumuration3_S', 'Cumuration1_SS', 'Label_1'})",0.002625565217391304
+"frozenset({'Label_1', 'Cumuration3_S', 'Cumuration3_SS'})",0.004077717391304347
+"frozenset({'Label_1', 'Duration_2_S', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Label_1', 'Duration_3_S', 'Cumuration3_S', 'Duration_3_SS'})",0.0015006521739130434
+"frozenset({'Cumuration3_S', 'Duration_2_SS', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS'})",0.011986434782608696
+"frozenset({'Label_1', 'Duration_2_S', 'Cumuration3_S'})",0.0049639565217391305
+"frozenset({'Cumuration2_SS', 'Label_1', 'Duration_2_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Label_1', 'Cumuration1_SS', 'Cumuration3_SS'})",0.9821652826086956
+"frozenset({'Cumuration3_S', 'Label_1', 'Cumuration3_M', 'Duration_1_SS', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Label_1', 'Duration_3_S', 'Cumuration3_SS', 'Duration_3_SS'})",0.0009307173913043476
+"frozenset({'Duration_3_M', 'Label_1', 'Cumuration1_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Cumuration3_M', 'Duration_1_SS', 'Duration_3_S', 'Cumuration2_SS'})",0.0013359782608695651
+"frozenset({'Cumuration3_S', 'Duration_2_SS', 'Duration_3_SS', 'Label_1', 'Duration_1_SS', 'Cumuration3_SS'})",0.004077717391304347
+"frozenset({'Cumuration3_S', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS', 'Cumuration3_SS'})",0.004077717391304347
+"frozenset({'Duration_2_SS', 'Duration_3_SS', 'Label_1', 'Duration_1_SS', 'Cumuration3_SS'})",0.9821652826086956
+"frozenset({'Duration_2_S', 'Label_1', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration3_SS'})",0.002625565217391304
+"frozenset({'Duration_3_M', 'Label_1', 'Duration_2_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Duration_3_M', 'Cumuration3_S', 'Label_1', 'Cumuration2_SS', 'Duration_1_SS', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Label_1', 'Duration_3_SS', 'Cumuration2_S'})",0.0049639565217391305
+"frozenset({'Cumuration3_S', 'Duration_3_SS', 'Label_1', 'Duration_1_SS', 'Cumuration3_SS'})",0.004077717391304347
+"frozenset({'Cumuration3_S', 'Duration_2_SS', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS', 'Cumuration3_SS', 'Duration_3_S'})",0.0009307173913043476
+"frozenset({'Label_1', 'Duration_2_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Duration_3_SS', 'Cumuration2_SS'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Cumuration1_SS', 'Duration_3_SS', 'Label_1', 'Duration_1_SS'})",0.0049639565217391305
+"frozenset({'Label_1', 'Duration_1_SS', 'Cumuration1_SS', 'Cumuration2_S'})",0.0049639565217391305
+"frozenset({'Label_1', 'Cumuration2_S'})",0.0049639565217391305
+"frozenset({'Cumuration3_S', 'Label_1', 'Duration_3_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_3_M', 'Cumuration2_SS', 'Cumuration3_M', 'Duration_3_S', 'Cumuration3_S', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS'})",0.0013359782608695651
+"frozenset({'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Duration_1_SS'})",0.005306347826086955
+"frozenset({'Label_1', 'Duration_1_SS', 'Duration_2_SS', 'Cumuration3_SS'})",0.9821652826086956
+"frozenset({'Cumuration1_SS', 'Duration_3_SS', 'Label_1', 'Cumuration3_SS', 'Duration_3_S'})",0.0009307173913043476
+"frozenset({'Duration_2_S', 'Label_1', 'Duration_2_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration3_SS'})",0.002625565217391304
+"frozenset({'Cumuration3_S', 'Duration_2_SS', 'Cumuration1_SS', 'Label_1', 'Duration_3_S'})",0.007610804347826087
+"frozenset({'Label_1', 'Cumuration3_S', 'Duration_1_SS', 'Duration_3_SS'})",0.007644739130434783
+"frozenset({'Duration_2_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration3_SS', 'Cumuration2_S', 'Cumuration3_S', 'Label_1', 'Duration_1_SS'})",0.002625565217391304
+"frozenset({'Label_1', 'Cumuration1_SS', 'Cumuration3_M', 'Cumuration2_SS', 'Duration_1_SS', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Duration_2_S', 'Label_1', 'Duration_2_SS', 'Cumuration2_SS', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Duration_2_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration2_S', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS'})",0.002625565217391304
+"frozenset({'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Cumuration2_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_3_M', 'Cumuration3_S', 'Label_1', 'Cumuration1_SS', 'Cumuration2_SS'})",0.0013359782608695651
+"frozenset({'Cumuration1_SS', 'Label_1', 'Duration_2_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_2_SS', 'Cumuration1_SS', 'Duration_3_SS', 'Label_1', 'Cumuration3_SS', 'Duration_3_S'})",0.0009307173913043476
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Duration_2_SS', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Cumuration1_SS', 'Duration_3_SS', 'Label_1', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Duration_2_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration2_S', 'Cumuration3_S', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Duration_2_SS', 'Duration_3_SS', 'Cumuration3_SS', 'Cumuration2_S', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS'})",0.002625565217391304
+"frozenset({'Label_1', 'Duration_2_SS', 'Cumuration3_SS'})",0.9821652826086956
+"frozenset({'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Duration_3_S'})",0.0015006521739130434
+"frozenset({'Label_1', 'Cumuration1_SS', 'Cumuration2_SS', 'Cumuration3_SS', 'Duration_3_S'})",0.0009307173913043476
+"frozenset({'Cumuration3_S', 'Label_1', 'Cumuration1_SS', 'Cumuration3_M', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Label_1', 'Duration_3_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Duration_2_SS', 'Cumuration1_SS', 'Label_1', 'Cumuration3_SS'})",0.002625565217391304
+"frozenset({'Cumuration2_SS', 'Cumuration3_S', 'Duration_1_SS', 'Label_1'})",0.011986434782608696
+"frozenset({'Cumuration3_S', 'Cumuration1_SS', 'Duration_3_SS', 'Label_1', 'Duration_1_SS', 'Duration_3_S'})",0.0015006521739130434
+"frozenset({'Label_1', 'Cumuration3_S', 'Duration_2_SS', 'Cumuration3_SS'})",0.004077717391304347
+"frozenset({'Duration_2_S', 'Duration_2_SS', 'Duration_3_SS', 'Cumuration3_SS', 'Cumuration2_S', 'Cumuration3_S', 'Label_1', 'Duration_1_SS'})",0.002625565217391304
+"frozenset({'Cumuration3_S', 'Cumuration1_SS', 'Label_1', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Label_1', 'Cumuration3_S', 'Cumuration1_SS', 'Duration_3_S'})",0.007610804347826087
+"frozenset({'Cumuration3_S', 'Duration_2_SS', 'Duration_3_SS', 'Label_1', 'Duration_1_SS'})",0.005306347826086955
+"frozenset({'Label_1', 'Cumuration3_S', 'Cumuration3_SS', 'Duration_3_SS'})",0.004077717391304347
+"frozenset({'Label_1', 'Cumuration2_LL'})",0.002173913043478261
+"frozenset({'Label_1', 'Duration_1_SS', 'Cumuration1_SS', 'Cumuration2_LL'})",0.002173913043478261
+"frozenset({'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Cumuration2_SS'})",0.011986434782608696
+"frozenset({'Label_1', 'Cumuration1_SS', 'Duration_2_LL'})",0.002173913043478261
+"frozenset({'Cumuration3_S', 'Label_1', 'Duration_3_SS', 'Cumuration2_SS', 'Duration_3_S'})",0.0015006521739130434
+"frozenset({'Duration_2_S', 'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration3_SS', 'Duration_3_S'})",0.0009307173913043476
+"frozenset({'Label_1', 'Duration_1_SS', 'Cumuration3_SS'})",0.9821652826086956
+"frozenset({'Label_1', 'Duration_2_SS', 'Duration_3_SS'})",0.983915347826087
+"frozenset({'Label_1', 'Cumuration1_SS', 'Duration_3_S'})",0.007610804347826087
+"frozenset({'Cumuration3_M', 'Label_1', 'Duration_2_SS', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Duration_3_M', 'Label_1', 'Cumuration3_M', 'Cumuration2_SS', 'Duration_1_SS'})",0.0013359782608695651
+"frozenset({'Duration_3_M', 'Label_1', 'Cumuration3_M', 'Cumuration2_SS', 'Duration_1_SS', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Cumuration3_S', 'Duration_2_SS', 'Cumuration1_SS', 'Duration_3_SS', 'Label_1', 'Duration_1_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_3_M', 'Cumuration3_S', 'Duration_2_SS', 'Label_1', 'Duration_1_SS', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Duration_3_M', 'Label_1', 'Duration_2_SS', 'Cumuration3_M', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Label_1', 'Cumuration1_SS', 'Cumuration3_SS', 'Duration_3_SS'})",0.9821652826086956
+"frozenset({'Cumuration3_S', 'Label_1', 'Cumuration1_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Duration_2_SS', 'Duration_3_SS', 'Label_1', 'Duration_1_SS', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Cumuration2_SS', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Cumuration3_S', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS', 'Duration_3_S'})",0.007610804347826087
+"frozenset({'Label_1', 'Duration_2_S', 'Cumuration3_S', 'Cumuration2_S'})",0.0049639565217391305
+"frozenset({'Cumuration3_M', 'Label_1'})",0.0013359782608695651
+"frozenset({'Cumuration3_S', 'Duration_2_SS', 'Label_1', 'Duration_1_SS', 'Duration_3_S'})",0.007610804347826087
+"frozenset({'Label_1', 'Cumuration3_LL', 'Duration_2_LL', 'Duration_3_SS'})",0.002173913043478261
+"frozenset({'Label_1', 'Cumuration1_SS', 'Cumuration2_LL'})",0.002173913043478261
+"frozenset({'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Duration_1_SS'})",0.983915347826087
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Label_1', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Duration_2_SS', 'Cumuration1_SS', 'Duration_3_SS', 'Label_1', 'Duration_1_SS'})",0.002625565217391304
+"frozenset({'Label_1', 'Cumuration1_SS', 'Cumuration3_M', 'Cumuration2_SS', 'Duration_1_SS'})",0.0013359782608695651
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Duration_3_SS', 'Label_1', 'Cumuration2_S'})",0.0049639565217391305
+"frozenset({'Label_1', 'Cumuration3_LL', 'Cumuration1_SS'})",0.002173913043478261
+"frozenset({'Label_1', 'Cumuration1_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration3_SS', 'Duration_3_S'})",0.0009307173913043476
+"frozenset({'Cumuration1_SS', 'Duration_3_SS', 'Label_1', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Duration_3_S'})",0.007610804347826087
+"frozenset({'Cumuration3_M', 'Duration_3_M', 'Label_1', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Cumuration1_SS', 'Label_1', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Label_1', 'Duration_3_SS', 'Cumuration2_SS', 'Duration_1_SS'})",0.002625565217391304
+"frozenset({'Label_1', 'Duration_2_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_3_M', 'Cumuration3_S', 'Label_1', 'Cumuration3_M', 'Cumuration2_SS'})",0.0013359782608695651
+"frozenset({'Duration_3_M', 'Cumuration3_S', 'Label_1', 'Cumuration3_M', 'Cumuration2_SS', 'Duration_1_SS'})",0.0013359782608695651
+"frozenset({'Label_1', 'Duration_2_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Duration_3_S'})",0.0015006521739130434
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Cumuration2_SS', 'Duration_1_SS'})",0.002625565217391304
+"frozenset({'Duration_3_SS', 'Label_1', 'Duration_1_SS', 'Cumuration3_SS', 'Duration_3_S'})",0.0009307173913043476
+"frozenset({'Duration_3_M', 'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Cumuration2_SS', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Duration_3_M', 'Cumuration3_S', 'Label_1', 'Cumuration1_SS', 'Cumuration3_M', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Cumuration2_SS', 'Cumuration3_S', 'Label_1', 'Cumuration1_SS'})",0.011986434782608696
+"frozenset({'Cumuration2_SS', 'Duration_2_S', 'Label_1', 'Cumuration3_SS'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Duration_2_SS', 'Duration_3_SS', 'Label_1', 'Duration_1_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Cumuration3_LL', 'Duration_3_SS', 'Duration_2_LL', 'Label_1', 'Duration_1_SS'})",0.002173913043478261
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Duration_2_SS', 'Cumuration1_SS', 'Label_1'})",0.002625565217391304
+"frozenset({'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Duration_3_SS', 'Cumuration2_SS'})",0.983915347826087
+"frozenset({'Cumuration2_SS', 'Duration_1_SS', 'Label_1', 'Duration_3_S'})",0.007610804347826087
+"frozenset({'Label_1', 'Duration_1_SS', 'Duration_2_LL'})",0.002173913043478261
+"frozenset({'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Duration_3_S'})",0.007610804347826087
+"frozenset({'Cumuration2_SS', 'Label_1', 'Duration_3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration3_SS'})",0.004077717391304347
+"frozenset({'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Cumuration2_SS', 'Duration_1_SS'})",0.011986434782608696
+"frozenset({'Duration_2_S', 'Cumuration1_SS', 'Duration_3_SS', 'Label_1', 'Duration_1_SS', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_3_M', 'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Cumuration3_M'})",0.0013359782608695651
+"frozenset({'Duration_2_S', 'Label_1', 'Duration_2_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration3_SS'})",0.002625565217391304
+"frozenset({'Label_1', 'Cumuration1_SS', 'Cumuration3_SS', 'Duration_3_S'})",0.0009307173913043476
+"frozenset({'Label_1', 'Duration_3_M', 'Duration_1_SS', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Cumuration3_S', 'Duration_2_SS', 'Cumuration1_SS', 'Duration_3_SS', 'Label_1'})",0.005306347826086955
+"frozenset({'Duration_3_M', 'Label_1', 'Duration_2_SS', 'Cumuration3_M', 'Duration_1_SS'})",0.0013359782608695651
+"frozenset({'Cumuration3_S', 'Label_1', 'Cumuration1_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Label_1', 'Duration_1_SS', 'Duration_2_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Label_1', 'Duration_3_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Label_1', 'Cumuration1_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration3_SS'})",0.002625565217391304
+"frozenset({'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Duration_1_SS'})",0.005306347826086955
+"frozenset({'Label_1', 'Duration_1_SS', 'Duration_3_S'})",0.007610804347826087
+"frozenset({'Duration_2_S', 'Label_1', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration3_SS'})",0.002625565217391304
+"frozenset({'Cumuration1_SS', 'Label_1', 'Duration_2_SS', 'Duration_3_S'})",0.007610804347826087
+"frozenset({'Duration_2_S', 'Duration_2_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration3_SS', 'Cumuration2_S', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS'})",0.002625565217391304
+"frozenset({'Duration_3_M', 'Label_1', 'Cumuration3_M', 'Duration_1_SS', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Cumuration3_S', 'Cumuration1_SS', 'Duration_3_SS', 'Label_1', 'Cumuration3_SS', 'Duration_3_S'})",0.0009307173913043476
+"frozenset({'Duration_2_S', 'Label_1', 'Cumuration1_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Duration_1_SS'})",0.002625565217391304
+"frozenset({'Cumuration3_S', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS', 'Cumuration2_S'})",0.0049639565217391305
+"frozenset({'Duration_3_M', 'Cumuration3_S', 'Duration_2_SS', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS'})",0.0013359782608695651
+"frozenset({'Duration_3_M', 'Label_1', 'Cumuration1_SS', 'Cumuration3_M', 'Cumuration2_SS'})",0.0013359782608695651
+"frozenset({'Cumuration1_SS', 'Label_1', 'Duration_1_SS', 'Cumuration3_SS', 'Duration_3_S'})",0.0009307173913043476
+"frozenset({'Duration_3_M', 'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Cumuration2_SS'})",0.0013359782608695651
+"frozenset({'Duration_2_SS', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Label_1', 'Cumuration2_SS', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Cumuration2_SS', 'Duration_1_SS'})",0.002625565217391304
+"frozenset({'Cumuration1_SS', 'Duration_3_SS', 'Label_1', 'Duration_1_SS', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Label_1', 'Duration_3_M', 'Cumuration3_S', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Label_1', 'Cumuration3_S', 'Duration_1_SS', 'Cumuration3_SS'})",0.004077717391304347
+"frozenset({'Duration_3_M', 'Duration_2_SS', 'Cumuration2_SS', 'Cumuration3_M', 'Duration_3_S', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS'})",0.0013359782608695651
+"frozenset({'Duration_3_M', 'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Cumuration3_M', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration3_SS', 'Duration_3_S'})",0.0009307173913043476
+"frozenset({'Label_1', 'Cumuration3_SS', 'Duration_3_SS'})",0.9821652826086956
+"frozenset({'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Cumuration3_M', 'Cumuration2_SS'})",0.0013359782608695651
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Label_1', 'Cumuration1_SS', 'Cumuration2_SS'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Duration_2_SS', 'Duration_3_SS', 'Label_1', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Cumuration3_S', 'Duration_2_SS', 'Cumuration1_SS', 'Duration_3_SS', 'Label_1', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Cumuration3_LL', 'Cumuration1_SS', 'Duration_1_SS', 'Duration_3_SS', 'Duration_2_LL', 'Label_1', 'Cumuration2_LL'})",0.002173913043478261
+"frozenset({'Duration_3_M', 'Cumuration3_S', 'Cumuration1_SS', 'Label_1', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Cumuration2_SS'})",0.002625565217391304
+"frozenset({'Label_1', 'Cumuration3_S', 'Cumuration1_SS'})",0.014324826086956522
+"frozenset({'Cumuration3_S', 'Label_1', 'Cumuration1_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration3_SS'})",0.004077717391304347
+"frozenset({'Cumuration2_SS', 'Label_1', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Label_1', 'Duration_3_SS'})",0.9910532173913044
+"frozenset({'Cumuration3_S', 'Cumuration1_SS', 'Label_1', 'Cumuration3_SS', 'Duration_3_S'})",0.0009307173913043476
+"frozenset({'Duration_2_S', 'Duration_2_SS', 'Label_1', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Label_1', 'Duration_3_M', 'Duration_2_SS', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Label_1', 'Cumuration1_SS', 'Cumuration2_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Label_1', 'Duration_3_M', 'Cumuration1_SS', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Label_1', 'Duration_1_SS', 'Cumuration1_SS', 'Cumuration3_SS'})",0.9821652826086956
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Duration_2_SS', 'Label_1', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Label_1', 'Duration_2_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Label_1', 'Cumuration3_LL', 'Cumuration2_LL'})",0.002173913043478261
+"frozenset({'Label_1', 'Duration_3_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_3_M', 'Cumuration3_S', 'Label_1', 'Cumuration1_SS', 'Cumuration3_M', 'Cumuration2_SS', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Duration_3_M', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Cumuration1_SS', 'Duration_3_SS', 'Label_1', 'Cumuration3_SS'})",0.002625565217391304
+"frozenset({'Label_1', 'Cumuration3_S', 'Duration_1_SS', 'Cumuration2_S'})",0.0049639565217391305
+"frozenset({'Duration_2_S', 'Duration_3_SS', 'Label_1', 'Duration_1_SS', 'Cumuration3_SS'})",0.002625565217391304
+"frozenset({'Label_1', 'Cumuration1_SS', 'Duration_2_LL', 'Cumuration2_LL'})",0.002173913043478261
+"frozenset({'Duration_3_M', 'Label_1', 'Duration_2_SS', 'Cumuration2_SS', 'Duration_1_SS'})",0.0013359782608695651
+"frozenset({'Duration_2_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration3_SS', 'Cumuration2_S', 'Cumuration3_S', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS'})",0.002625565217391304
+"frozenset({'Cumuration3_LL', 'Cumuration1_SS', 'Duration_2_LL', 'Cumuration2_LL', 'Label_1'})",0.002173913043478261
+"frozenset({'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Cumuration3_M', 'Cumuration2_SS', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Label_1', 'Duration_2_SS', 'Duration_3_S'})",0.007610804347826087
+"frozenset({'Cumuration3_S', 'Label_1', 'Cumuration1_SS', 'Cumuration3_M', 'Cumuration2_SS'})",0.0013359782608695651
+"frozenset({'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Cumuration3_M', 'Duration_1_SS'})",0.0013359782608695651
+"frozenset({'Duration_3_M', 'Cumuration3_S', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Cumuration3_S', 'Label_1', 'Cumuration1_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Duration_1_SS'})",0.005306347826086955
+"frozenset({'Cumuration3_S', 'Duration_2_SS', 'Cumuration1_SS', 'Duration_3_SS', 'Label_1', 'Cumuration3_SS'})",0.004077717391304347
+"frozenset({'Duration_2_S', 'Label_1', 'Duration_3_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration3_SS'})",0.002625565217391304
+"frozenset({'Label_1', 'Duration_2_SS', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Cumuration3_S', 'Label_1', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration3_SS'})",0.004077717391304347
+"frozenset({'Cumuration3_S', 'Cumuration1_SS', 'Duration_3_SS', 'Label_1', 'Cumuration2_S'})",0.0049639565217391305
+"frozenset({'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Duration_3_S'})",0.0015006521739130434
+"frozenset({'Cumuration2_SS', 'Duration_3_M', 'Label_1', 'Duration_2_SS'})",0.0013359782608695651
+"frozenset({'Duration_2_S', 'Label_1', 'Cumuration1_SS', 'Cumuration2_SS', 'Duration_1_SS'})",0.002625565217391304
+"frozenset({'Cumuration3_S', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS', 'Cumuration3_SS', 'Duration_3_S'})",0.0009307173913043476
+"frozenset({'Label_1', 'Cumuration3_SS', 'Duration_3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Label_1', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_3_M', 'Duration_2_SS', 'Cumuration2_SS', 'Cumuration3_M', 'Cumuration3_S', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS'})",0.0013359782608695651
+"frozenset({'Duration_3_M', 'Cumuration3_S', 'Label_1', 'Cumuration1_SS', 'Cumuration2_SS', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Cumuration3_M', 'Cumuration3_S', 'Label_1'})",0.0013359782608695651
+"frozenset({'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Cumuration3_M', 'Duration_3_S', 'Cumuration2_SS'})",0.0013359782608695651
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Duration_3_SS', 'Cumuration2_SS'})",0.002625565217391304
+"frozenset({'Duration_3_M', 'Label_1', 'Duration_2_SS', 'Cumuration3_M', 'Cumuration2_SS'})",0.0013359782608695651
+"frozenset({'Cumuration3_S', 'Label_1', 'Duration_1_SS', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Label_1', 'Duration_1_SS', 'Duration_3_SS'})",0.9910532173913044
+"frozenset({'Label_1', 'Duration_3_S', 'Cumuration1_SS', 'Duration_3_SS'})",0.0015006521739130434
+"frozenset({'Duration_2_S', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS', 'Cumuration2_S'})",0.0049639565217391305
+"frozenset({'Duration_2_S', 'Duration_2_SS', 'Duration_3_SS', 'Label_1', 'Duration_1_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_3_M', 'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Duration_2_SS', 'Label_1', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Label_1', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_2_SS', 'Cumuration1_SS', 'Label_1', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Duration_3_S'})",0.007610804347826087
+"frozenset({'Label_1', 'Cumuration1_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Duration_3_S'})",0.0015006521739130434
+"frozenset({'Duration_3_M', 'Duration_2_SS', 'Cumuration2_SS', 'Duration_3_S', 'Cumuration3_S', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS'})",0.0013359782608695651
+"frozenset({'Duration_2_S', 'Duration_2_SS', 'Cumuration1_SS', 'Duration_3_SS', 'Label_1', 'Duration_1_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Cumuration2_SS', 'Duration_1_SS', 'Label_1'})",0.9928621304347827
+"frozenset({'Duration_2_S', 'Duration_2_SS', 'Cumuration3_SS', 'Cumuration2_S', 'Cumuration3_S', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS'})",0.002625565217391304
+"frozenset({'Duration_3_M', 'Label_1', 'Cumuration2_SS', 'Duration_1_SS', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Label_1', 'Cumuration1_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Cumuration2_SS', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Cumuration3_S', 'Label_1', 'Cumuration1_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Duration_3_S'})",0.0015006521739130434
+"frozenset({'Cumuration3_S', 'Duration_2_SS', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Label_1', 'Cumuration1_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration3_SS'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration2_S', 'Cumuration3_S', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS'})",0.002625565217391304
+"frozenset({'Label_1', 'Duration_1_SS', 'Duration_2_SS', 'Duration_3_SS'})",0.983915347826087
+"frozenset({'Duration_2_S', 'Label_1', 'Duration_2_SS', 'Cumuration2_SS', 'Cumuration3_SS'})",0.002625565217391304
+"frozenset({'Cumuration3_S', 'Duration_2_SS', 'Duration_3_SS', 'Label_1', 'Duration_1_SS', 'Cumuration3_SS', 'Duration_3_S'})",0.0009307173913043476
+"frozenset({'Duration_2_S', 'Label_1', 'Cumuration1_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Cumuration3_S', 'Cumuration1_SS', 'Duration_3_SS', 'Label_1', 'Duration_1_SS', 'Cumuration3_SS', 'Duration_3_S'})",0.0009307173913043476
+"frozenset({'Duration_2_S', 'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration3_SS'})",0.002625565217391304
+"frozenset({'Label_1', 'Duration_2_S', 'Cumuration3_S', 'Duration_2_SS'})",0.002625565217391304
+"frozenset({'Duration_2_SS', 'Cumuration3_M', 'Cumuration2_SS', 'Duration_3_S', 'Cumuration3_S', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS'})",0.0013359782608695651
+"frozenset({'Duration_2_S', 'Duration_2_SS', 'Label_1', 'Duration_1_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Label_1', 'Cumuration3_LL', 'Duration_1_SS'})",0.002173913043478261
+"frozenset({'Cumuration3_S', 'Label_1', 'Cumuration1_SS', 'Cumuration2_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Cumuration3_LL', 'Duration_3_SS', 'Cumuration2_LL', 'Label_1', 'Duration_1_SS'})",0.002173913043478261
+"frozenset({'Duration_3_M', 'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Cumuration2_SS'})",0.0013359782608695651
+"frozenset({'Label_1', 'Cumuration1_SS', 'Duration_3_SS'})",0.9910532173913044
+"frozenset({'Label_1', 'Cumuration3_LL', 'Duration_2_LL', 'Cumuration2_LL'})",0.002173913043478261
+"frozenset({'Label_1', 'Cumuration1_SS', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Duration_2_SS', 'Cumuration1_SS', 'Duration_3_SS', 'Label_1', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_2_SS', 'Cumuration1_SS', 'Duration_3_SS', 'Label_1', 'Duration_1_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_3_M', 'Cumuration3_S', 'Duration_2_SS', 'Label_1', 'Duration_1_SS'})",0.0013359782608695651
+"frozenset({'Cumuration3_S', 'Label_1', 'Cumuration2_SS', 'Cumuration3_SS', 'Duration_3_S'})",0.0009307173913043476
+"frozenset({'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration3_SS'})",0.004077717391304347
+"frozenset({'Label_1', 'Duration_2_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration3_SS', 'Duration_3_S'})",0.0009307173913043476
+"frozenset({'Cumuration3_S', 'Label_1', 'Cumuration1_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration3_SS', 'Duration_3_S'})",0.0009307173913043476
+"frozenset({'Duration_2_SS', 'Label_1', 'Duration_1_SS', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Label_1', 'Duration_3_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration3_SS', 'Duration_3_S'})",0.0009307173913043476
+"frozenset({'Duration_2_SS', 'Duration_3_SS', 'Label_1', 'Cumuration3_SS', 'Duration_3_S'})",0.0009307173913043476
+"frozenset({'Cumuration2_SS', 'Cumuration3_S', 'Label_1'})",0.011986434782608696
+"frozenset({'Label_1', 'Duration_3_M', 'Duration_2_SS'})",0.0013359782608695651
+"frozenset({'Cumuration3_S', 'Duration_3_SS', 'Label_1', 'Duration_1_SS', 'Cumuration2_S'})",0.0049639565217391305
+"frozenset({'Cumuration3_M', 'Duration_3_M', 'Label_1', 'Duration_2_SS'})",0.0013359782608695651
+"frozenset({'Cumuration3_S', 'Duration_2_SS', 'Label_1', 'Duration_1_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Label_1', 'Duration_2_S', 'Duration_1_SS'})",0.0049639565217391305
+"frozenset({'Label_1', 'Cumuration3_S', 'Cumuration3_SS', 'Duration_3_S'})",0.0009307173913043476
+"frozenset({'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Cumuration3_M', 'Duration_1_SS', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Label_1', 'Cumuration1_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration3_SS'})",0.9821652826086956
+"frozenset({'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration3_SS'})",0.9821652826086956
+"frozenset({'Cumuration3_S', 'Label_1', 'Cumuration1_SS', 'Cumuration2_SS', 'Cumuration3_SS'})",0.004077717391304347
+"frozenset({'Cumuration3_S', 'Duration_2_SS', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS', 'Cumuration3_SS'})",0.004077717391304347
+"frozenset({'Cumuration3_S', 'Cumuration1_SS', 'Duration_3_SS', 'Label_1', 'Duration_1_SS', 'Cumuration3_SS'})",0.004077717391304347
+"frozenset({'Duration_2_SS', 'Cumuration1_SS', 'Duration_3_SS', 'Label_1', 'Duration_1_SS', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Label_1', 'Cumuration3_S', 'Duration_2_SS', 'Duration_3_S'})",0.007610804347826087
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Label_1', 'Cumuration1_SS', 'Cumuration2_SS', 'Duration_1_SS'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Duration_2_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration3_SS', 'Cumuration2_S', 'Cumuration3_S', 'Label_1', 'Duration_1_SS'})",0.002625565217391304
+"frozenset({'Duration_2_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration3_SS', 'Cumuration3_S', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS'})",0.004077717391304347
+"frozenset({'Duration_2_S', 'Label_1', 'Cumuration1_SS', 'Duration_3_SS', 'Cumuration2_SS'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration3_SS'})",0.002625565217391304
+"frozenset({'Label_1', 'Duration_1_SS', 'Cumuration2_S'})",0.0049639565217391305
+"frozenset({'Cumuration3_S', 'Label_1', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration3_SS'})",0.004077717391304347
+"frozenset({'Duration_2_S', 'Label_1', 'Duration_2_SS', 'Cumuration2_SS', 'Duration_1_SS'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Duration_2_SS', 'Duration_3_SS', 'Label_1', 'Cumuration3_SS'})",0.002625565217391304
+"frozenset({'Duration_3_M', 'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Cumuration3_M', 'Duration_1_SS', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Cumuration2_SS', 'Label_1', 'Duration_2_SS', 'Duration_3_S'})",0.007610804347826087
+"frozenset({'Label_1', 'Cumuration3_LL', 'Cumuration1_SS', 'Duration_2_LL'})",0.002173913043478261
+"frozenset({'Label_1', 'Duration_1_SS', 'Cumuration3_SS', 'Duration_3_S'})",0.0009307173913043476
+"frozenset({'Duration_2_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration3_SS', 'Duration_3_S', 'Cumuration3_S', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS'})",0.0009307173913043476
+"frozenset({'Cumuration3_S', 'Duration_2_SS', 'Cumuration1_SS', 'Label_1', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Cumuration3_S', 'Label_1', 'Cumuration1_SS', 'Cumuration2_SS', 'Duration_1_SS'})",0.011986434782608696
+"frozenset({'Label_1', 'Cumuration1_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Label_1', 'Duration_2_SS', 'Cumuration3_M', 'Cumuration2_SS', 'Duration_1_SS', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Cumuration3_S', 'Duration_2_SS', 'Label_1', 'Cumuration3_SS', 'Duration_3_S'})",0.0009307173913043476
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Duration_2_SS', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS', 'Cumuration3_SS'})",0.002625565217391304
+"frozenset({'Cumuration3_M', 'Cumuration3_S', 'Duration_1_SS', 'Label_1'})",0.0013359782608695651
+"frozenset({'Duration_3_M', 'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Cumuration3_M', 'Cumuration2_SS'})",0.0013359782608695651
+"frozenset({'Duration_2_S', 'Duration_2_SS', 'Duration_3_SS', 'Cumuration3_SS', 'Cumuration2_S', 'Cumuration3_S', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Duration_2_SS', 'Label_1', 'Cumuration3_SS'})",0.002625565217391304
+"frozenset({'Cumuration3_S', 'Label_1', 'Duration_3_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration3_SS'})",0.004077717391304347
+"frozenset({'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Cumuration2_SS', 'Cumuration3_SS', 'Duration_3_S'})",0.0009307173913043476
+"frozenset({'Label_1', 'Cumuration1_SS', 'Duration_3_SS', 'Cumuration2_S'})",0.0049639565217391305
+"frozenset({'Label_1', 'Duration_2_S', 'Duration_1_SS', 'Cumuration1_SS'})",0.0049639565217391305
+"frozenset({'Duration_2_S', 'Duration_2_SS', 'Cumuration2_SS', 'Cumuration3_SS', 'Cumuration2_S', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS'})",0.002625565217391304
+"frozenset({'Duration_3_M', 'Cumuration3_S', 'Label_1', 'Cumuration1_SS', 'Cumuration3_M'})",0.0013359782608695651
+"frozenset({'Duration_2_SS', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS', 'Cumuration3_SS', 'Duration_3_S'})",0.0009307173913043476
+"frozenset({'Label_1', 'Cumuration3_LL', 'Cumuration1_SS', 'Cumuration2_LL'})",0.002173913043478261
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Label_1', 'Cumuration1_SS', 'Cumuration2_SS', 'Cumuration3_SS'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Duration_2_SS', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Label_1', 'Duration_2_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Label_1', 'Duration_2_LL', 'Cumuration2_LL'})",0.002173913043478261
+"frozenset({'Label_1', 'Duration_2_S', 'Cumuration3_S', 'Cumuration3_SS'})",0.002625565217391304
+"frozenset({'Cumuration3_S', 'Duration_2_SS', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS', 'Duration_3_S'})",0.007610804347826087
+"frozenset({'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Cumuration3_M', 'Duration_1_SS', 'Cumuration2_SS'})",0.0013359782608695651
+"frozenset({'Duration_2_SS', 'Duration_3_SS', 'Label_1', 'Duration_1_SS', 'Duration_3_S'})",0.0015006521739130434
+"frozenset({'Duration_3_M', 'Duration_2_SS', 'Cumuration3_M', 'Cumuration2_SS', 'Duration_3_S', 'Cumuration3_S', 'Cumuration1_SS', 'Label_1'})",0.0013359782608695651
+"frozenset({'Cumuration2_SS', 'Label_1', 'Duration_2_SS'})",0.9928621304347827
+"frozenset({'Cumuration3_S', 'Label_1', 'Duration_1_SS', 'Cumuration3_SS', 'Duration_3_S'})",0.0009307173913043476
+"frozenset({'Cumuration2_SS', 'Label_1', 'Duration_3_SS'})",0.983915347826087
+"frozenset({'Label_1', 'Duration_2_S', 'Cumuration3_SS'})",0.002625565217391304
+"frozenset({'Label_1', 'Cumuration3_LL', 'Duration_2_LL'})",0.002173913043478261
+"frozenset({'Duration_3_M', 'Label_1', 'Duration_2_SS', 'Cumuration3_M', 'Duration_1_SS', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Duration_3_M', 'Label_1', 'Cumuration3_M', 'Cumuration2_SS', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Cumuration3_S', 'Duration_2_SS', 'Cumuration1_SS', 'Duration_3_SS', 'Label_1', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_3_M', 'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Cumuration3_M', 'Cumuration2_SS'})",0.0013359782608695651
+"frozenset({'Label_1', 'Cumuration3_SS', 'Duration_3_S'})",0.0009307173913043476
+"frozenset({'Cumuration3_S', 'Label_1', 'Cumuration1_SS', 'Cumuration2_SS', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Cumuration1_SS', 'Label_1', 'Duration_1_SS', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_3_M', 'Label_1', 'Cumuration1_SS', 'Cumuration3_M', 'Duration_1_SS', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Label_1', 'Duration_1_SS', 'Cumuration3_SS', 'Duration_3_SS'})",0.9821652826086956
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Label_1', 'Duration_1_SS', 'Cumuration2_S'})",0.0049639565217391305
+"frozenset({'Cumuration3_S', 'Label_1', 'Cumuration2_SS', 'Duration_1_SS', 'Duration_3_S'})",0.007610804347826087
+"frozenset({'Label_1', 'Duration_3_M', 'Cumuration3_S', 'Duration_2_SS'})",0.0013359782608695651
+"frozenset({'Label_1', 'Cumuration1_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Cumuration3_S', 'Cumuration1_SS', 'Duration_3_SS', 'Label_1', 'Duration_3_S'})",0.0015006521739130434
+"frozenset({'Label_1', 'Duration_1_SS', 'Cumuration1_SS'})",1.0
+"frozenset({'Duration_2_S', 'Label_1', 'Duration_2_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration3_SS', 'Cumuration2_S', 'Cumuration3_S', 'Label_1', 'Duration_1_SS'})",0.002625565217391304
+"frozenset({'Cumuration2_SS', 'Label_1', 'Cumuration1_SS', 'Duration_3_SS'})",0.983915347826087
+"frozenset({'Label_1', 'Duration_2_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Duration_3_S'})",0.007610804347826087
+"frozenset({'Label_1', 'Duration_2_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Label_1', 'Duration_2_SS', 'Cumuration2_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Label_1', 'Cumuration3_S', 'Duration_1_SS', 'Duration_2_S'})",0.0049639565217391305
+"frozenset({'Duration_2_S', 'Duration_2_SS', 'Cumuration2_SS', 'Cumuration3_SS', 'Cumuration2_S', 'Cumuration3_S', 'Label_1', 'Duration_1_SS'})",0.002625565217391304
+"frozenset({'Duration_3_SS', 'Label_1', 'Duration_1_SS', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Label_1', 'Cumuration3_LL', 'Duration_1_SS', 'Duration_2_LL'})",0.002173913043478261
+"frozenset({'Label_1', 'Duration_2_S', 'Duration_1_SS', 'Cumuration3_SS'})",0.002625565217391304
+"frozenset({'Duration_3_M', 'Cumuration3_S', 'Label_1', 'Cumuration1_SS', 'Cumuration3_M', 'Cumuration2_SS', 'Duration_1_SS'})",0.0013359782608695651
+"frozenset({'Duration_2_S', 'Cumuration1_SS', 'Duration_3_SS', 'Label_1', 'Duration_1_SS', 'Cumuration2_S'})",0.0049639565217391305
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Label_1', 'Cumuration1_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Duration_1_SS'})",0.002625565217391304
+"frozenset({'Cumuration3_S', 'Duration_2_SS', 'Duration_3_SS', 'Label_1', 'Duration_3_S'})",0.0015006521739130434
+"frozenset({'Label_1', 'Cumuration3_S', 'Duration_1_SS', 'Cumuration1_SS'})",0.014324826086956522
+"frozenset({'Duration_2_SS', 'Cumuration2_SS', 'Cumuration3_SS', 'Cumuration2_S', 'Cumuration3_S', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS'})",0.002625565217391304
+"frozenset({'Duration_2_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration3_SS', 'Duration_3_S', 'Cumuration3_S', 'Cumuration1_SS', 'Label_1'})",0.0009307173913043476
+"frozenset({'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Label_1', 'Duration_2_SS', 'Cumuration2_SS', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Duration_2_SS', 'Duration_3_SS', 'Label_1', 'Duration_1_SS'})",0.002625565217391304
+"frozenset({'Duration_3_M', 'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Cumuration3_M'})",0.0013359782608695651
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Cumuration2_SS', 'Cumuration3_SS'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Cumuration1_SS', 'Cumuration3_S', 'Label_1', 'Duration_2_SS'})",0.011986434782608696
+"frozenset({'Label_1', 'Duration_2_S', 'Duration_2_SS', 'Cumuration3_SS'})",0.002625565217391304
+"frozenset({'Cumuration3_M', 'Label_1', 'Cumuration1_SS'})",0.0013359782608695651
+"frozenset({'Cumuration3_M', 'Duration_1_SS', 'Label_1', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Label_1', 'Duration_2_S', 'Duration_1_SS', 'Duration_3_SS'})",0.0049639565217391305
+"frozenset({'Cumuration3_S', 'Cumuration1_SS', 'Duration_3_SS', 'Label_1', 'Duration_1_SS'})",0.007644739130434783
+"frozenset({'Duration_2_S', 'Duration_2_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration3_SS', 'Cumuration2_S', 'Label_1', 'Duration_1_SS'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Label_1', 'Duration_2_SS', 'Duration_3_SS', 'Cumuration2_SS'})",0.002625565217391304
+"frozenset({'Cumuration3_M', 'Duration_3_M', 'Duration_1_SS', 'Label_1'})",0.0013359782608695651
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Duration_3_SS', 'Label_1', 'Duration_1_SS', 'Cumuration3_SS'})",0.002625565217391304
+"frozenset({'Label_1', 'Duration_3_M', 'Duration_1_SS', 'Duration_2_SS'})",0.0013359782608695651
+"frozenset({'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration3_SS'})",0.9821652826086956
+"frozenset({'Cumuration3_LL', 'Cumuration1_SS', 'Duration_2_LL', 'Label_1', 'Duration_1_SS'})",0.002173913043478261
+"frozenset({'Duration_2_S', 'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Cumuration2_SS', 'Cumuration3_SS'})",0.002625565217391304
+"frozenset({'Duration_3_M', 'Duration_2_SS', 'Cumuration1_SS', 'Label_1', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Label_1', 'Cumuration1_SS', 'Cumuration3_M', 'Cumuration2_SS', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Cumuration2_SS', 'Duration_2_S', 'Label_1', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Cumuration3_M', 'Cumuration3_S', 'Label_1', 'Cumuration1_SS'})",0.0013359782608695651
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Label_1', 'Cumuration1_SS', 'Duration_3_SS', 'Cumuration2_SS'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Duration_2_SS', 'Label_1', 'Duration_1_SS', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Label_1', 'Duration_1_SS', 'Duration_3_SS', 'Cumuration2_LL'})",0.002173913043478261
+"frozenset({'Duration_3_M', 'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Cumuration3_M', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Cumuration3_S', 'Label_1', 'Cumuration1_SS', 'Cumuration3_M', 'Cumuration2_SS', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Cumuration3_S', 'Label_1', 'Cumuration1_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration3_SS'})",0.004077717391304347
+"frozenset({'Duration_2_S', 'Duration_2_SS', 'Cumuration1_SS', 'Label_1', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_3_M', 'Cumuration3_S', 'Duration_2_SS', 'Label_1', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Cumuration2_SS', 'Duration_1_SS', 'Label_1', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Duration_3_SS', 'Label_1', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Duration_2_SS', 'Cumuration1_SS', 'Duration_3_SS', 'Label_1', 'Duration_1_SS', 'Cumuration3_SS'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Duration_2_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration3_SS', 'Cumuration3_S', 'Cumuration1_SS', 'Label_1'})",0.002625565217391304
+"frozenset({'Label_1', 'Cumuration1_SS', 'Cumuration3_M', 'Duration_1_SS', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Label_1', 'Duration_1_SS', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Cumuration3_LL', 'Cumuration1_SS', 'Cumuration2_LL', 'Label_1', 'Duration_1_SS'})",0.002173913043478261
+"frozenset({'Cumuration2_SS', 'Label_1', 'Duration_2_SS', 'Duration_3_SS'})",0.983915347826087
+"frozenset({'Cumuration2_SS', 'Label_1', 'Cumuration1_SS', 'Duration_3_S'})",0.007610804347826087
+"frozenset({'Duration_3_M', 'Duration_2_SS', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS'})",0.0013359782608695651
+"frozenset({'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Cumuration3_M', 'Cumuration2_SS', 'Duration_1_SS'})",0.0013359782608695651
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Duration_2_SS', 'Duration_3_SS', 'Label_1', 'Duration_1_SS', 'Cumuration3_SS'})",0.002625565217391304
+"frozenset({'Cumuration3_M', 'Duration_1_SS', 'Label_1', 'Duration_2_SS'})",0.0013359782608695651
+"frozenset({'Label_1', 'Duration_2_S', 'Duration_3_SS', 'Cumuration2_S'})",0.0049639565217391305
+"frozenset({'Cumuration1_SS', 'Duration_3_SS', 'Cumuration2_LL', 'Label_1', 'Duration_1_SS'})",0.002173913043478261
+"frozenset({'Cumuration3_LL', 'Cumuration1_SS', 'Duration_2_LL', 'Cumuration2_LL', 'Label_1', 'Duration_1_SS'})",0.002173913043478261
+"frozenset({'Label_1', 'Duration_2_SS', 'Duration_3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_3_M', 'Duration_2_SS', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Label_1', 'Duration_3_S'})",0.007610804347826087
+"frozenset({'Duration_2_SS', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Label_1', 'Cumuration1_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Label_1', 'Duration_3_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration3_SS'})",0.9821652826086956
+"frozenset({'Cumuration2_SS', 'Cumuration3_S', 'Label_1', 'Cumuration3_M'})",0.0013359782608695651
+"frozenset({'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_3_M', 'Label_1', 'Duration_2_SS', 'Cumuration2_SS', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Label_1', 'Duration_2_LL', 'Duration_3_SS', 'Cumuration2_LL'})",0.002173913043478261
+"frozenset({'Duration_2_SS', 'Duration_3_SS', 'Label_1', 'Duration_1_SS', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Label_1', 'Duration_2_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration3_SS'})",0.9821652826086956
+"frozenset({'Cumuration3_S', 'Duration_2_SS', 'Duration_3_SS', 'Label_1', 'Duration_1_SS', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Cumuration1_SS', 'Duration_3_SS', 'Duration_2_LL', 'Label_1', 'Duration_1_SS'})",0.002173913043478261
+"frozenset({'Cumuration3_S', 'Label_1', 'Cumuration1_SS', 'Cumuration3_M', 'Duration_1_SS', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Duration_3_M', 'Duration_2_SS', 'Cumuration3_M', 'Duration_3_S', 'Cumuration3_S', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS'})",0.0013359782608695651
+"frozenset({'Cumuration2_SS', 'Duration_1_SS', 'Label_1', 'Cumuration3_SS'})",0.9821652826086956
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Cumuration2_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Cumuration3_S', 'Label_1', 'Cumuration1_SS', 'Cumuration2_SS', 'Duration_3_S'})",0.007610804347826087
+"frozenset({'Duration_3_M', 'Cumuration3_S', 'Label_1', 'Cumuration1_SS', 'Cumuration3_M', 'Duration_1_SS', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Label_1', 'Duration_1_SS'})",1.0
+"frozenset({'Duration_3_M', 'Cumuration3_S', 'Duration_2_SS', 'Cumuration1_SS', 'Label_1'})",0.0013359782608695651
+"frozenset({'Label_1', 'Duration_3_M', 'Duration_1_SS', 'Cumuration1_SS'})",0.0013359782608695651
+"frozenset({'Cumuration2_SS', 'Label_1', 'Cumuration1_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_3_M', 'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Cumuration3_M', 'Duration_1_SS', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Duration_2_S', 'Duration_2_SS', 'Cumuration1_SS', 'Label_1', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Label_1', 'Duration_1_SS', 'Cumuration1_SS', 'Duration_2_LL'})",0.002173913043478261
+"frozenset({'Duration_2_S', 'Label_1', 'Cumuration1_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Label_1', 'Duration_2_S', 'Cumuration3_S', 'Cumuration1_SS'})",0.0049639565217391305
+"frozenset({'Duration_2_S', 'Duration_2_SS', 'Cumuration2_SS', 'Cumuration3_SS', 'Cumuration2_S', 'Cumuration3_S', 'Cumuration1_SS', 'Label_1'})",0.002625565217391304
+"frozenset({'Cumuration3_S', 'Duration_2_SS', 'Label_1', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_2_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Duration_3_S', 'Cumuration3_S', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS'})",0.0015006521739130434
+"frozenset({'Duration_3_M', 'Cumuration3_S', 'Label_1', 'Cumuration2_SS', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Cumuration2_SS', 'Duration_1_SS', 'Label_1', 'Cumuration1_SS'})",0.9928621304347827
+"frozenset({'Cumuration1_SS', 'Label_1', 'Duration_2_SS', 'Cumuration3_SS'})",0.9821652826086956
+"frozenset({'Duration_2_S', 'Label_1', 'Cumuration2_SS', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Cumuration3_S', 'Duration_2_SS', 'Duration_3_SS', 'Label_1', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_2_SS', 'Cumuration1_SS', 'Label_1', 'Cumuration3_SS', 'Duration_3_S'})",0.0009307173913043476
+"frozenset({'Cumuration3_S', 'Duration_3_SS', 'Label_1', 'Cumuration3_SS', 'Duration_3_S'})",0.0009307173913043476
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Cumuration1_SS', 'Duration_3_SS', 'Label_1', 'Duration_1_SS', 'Cumuration3_SS'})",0.002625565217391304
+"frozenset({'Cumuration3_M', 'Duration_1_SS', 'Label_1', 'Cumuration1_SS'})",0.0013359782608695651
+"frozenset({'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Cumuration2_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Label_1', 'Cumuration3_S', 'Duration_1_SS', 'Duration_2_SS'})",0.011986434782608696
+"frozenset({'Duration_2_S', 'Label_1', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Cumuration3_S', 'Label_1', 'Cumuration1_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Duration_2_SS', 'Duration_3_SS', 'Cumuration3_SS', 'Cumuration3_S', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS'})",0.002625565217391304
+"frozenset({'Label_1', 'Cumuration1_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Duration_2_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration3_SS', 'Cumuration3_S', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS'})",0.002625565217391304
+"frozenset({'Cumuration3_S', 'Duration_2_SS', 'Duration_3_SS', 'Label_1', 'Cumuration3_SS', 'Duration_3_S'})",0.0009307173913043476
+"frozenset({'Duration_3_M', 'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Cumuration2_SS', 'Duration_1_SS'})",0.0013359782608695651
+"frozenset({'Label_1', 'Cumuration3_S', 'Duration_3_SS', 'Cumuration2_S'})",0.0049639565217391305
+"frozenset({'Label_1', 'Cumuration3_S', 'Duration_1_SS', 'Duration_3_S'})",0.007610804347826087
+"frozenset({'Duration_3_SS', 'Cumuration2_SS', 'Cumuration3_SS', 'Cumuration2_S', 'Cumuration3_S', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS'})",0.002625565217391304
+"frozenset({'Cumuration2_SS', 'Label_1', 'Duration_3_S', 'Cumuration3_M'})",0.0013359782608695651
+"frozenset({'Duration_2_S', 'Duration_2_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration3_SS', 'Cumuration2_S', 'Cumuration3_S', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS'})",0.002625565217391304
+"frozenset({'Duration_2_SS', 'Cumuration1_SS', 'Duration_3_SS', 'Label_1', 'Duration_1_SS', 'Cumuration3_SS', 'Duration_3_S'})",0.0009307173913043476
+"frozenset({'Label_1', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration3_SS', 'Duration_3_S'})",0.0009307173913043476
+"frozenset({'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Cumuration3_M', 'Cumuration2_SS'})",0.0013359782608695651
+"frozenset({'Label_1', 'Duration_3_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Label_1', 'Duration_1_SS', 'Cumuration3_SS'})",0.002625565217391304
+"frozenset({'Label_1', 'Duration_1_SS', 'Cumuration2_LL'})",0.002173913043478261
+"frozenset({'Duration_2_SS', 'Cumuration2_SS', 'Cumuration3_SS', 'Duration_3_S', 'Cumuration3_S', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS'})",0.0009307173913043476
+"frozenset({'Duration_3_M', 'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Cumuration3_M', 'Cumuration2_SS'})",0.0013359782608695651
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Duration_2_SS', 'Duration_3_SS', 'Label_1', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Duration_2_SS', 'Cumuration2_SS', 'Cumuration3_SS', 'Cumuration3_S', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS', 'Cumuration3_SS'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Duration_2_SS', 'Label_1', 'Duration_1_SS', 'Cumuration3_SS'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Cumuration1_SS', 'Duration_3_SS', 'Label_1', 'Cumuration2_S'})",0.0049639565217391305
+"frozenset({'Duration_3_M', 'Label_1', 'Cumuration1_SS', 'Cumuration3_M', 'Cumuration2_SS', 'Duration_1_SS'})",0.0013359782608695651
+"frozenset({'Label_1', 'Duration_2_SS', 'Cumuration3_SS', 'Duration_3_SS'})",0.9821652826086956
+"frozenset({'Label_1', 'Cumuration3_LL'})",0.002173913043478261
+"frozenset({'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Cumuration2_SS', 'Cumuration3_SS'})",0.004077717391304347
+"frozenset({'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Cumuration3_M', 'Duration_1_SS'})",0.0013359782608695651
+"frozenset({'Cumuration3_LL', 'Cumuration1_SS', 'Duration_3_SS', 'Cumuration2_LL', 'Label_1', 'Duration_1_SS'})",0.002173913043478261
+"frozenset({'Cumuration2_SS', 'Duration_1_SS', 'Label_1', 'Duration_2_SS'})",0.9928621304347827
+"frozenset({'Duration_2_S', 'Duration_2_SS', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS', 'Cumuration3_SS'})",0.002625565217391304
+"frozenset({'Cumuration1_SS', 'Duration_1_SS', 'Label_1', 'Duration_2_SS'})",0.9928621304347827
+"frozenset({'Cumuration3_LL', 'Cumuration1_SS', 'Duration_3_SS', 'Duration_2_LL', 'Label_1', 'Cumuration2_LL'})",0.002173913043478261
+"frozenset({'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Duration_3_SS', 'Cumuration2_SS'})",0.005306347826086955
+"frozenset({'Label_1', 'Cumuration1_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Duration_3_S'})",0.007610804347826087
+"frozenset({'Cumuration2_SS', 'Duration_3_M', 'Label_1', 'Cumuration1_SS'})",0.0013359782608695651
+"frozenset({'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Cumuration2_SS', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Label_1', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Cumuration2_SS', 'Duration_2_S', 'Label_1', 'Cumuration1_SS'})",0.002625565217391304
+"frozenset({'Duration_3_M', 'Cumuration3_S', 'Label_1', 'Cumuration3_M', 'Duration_1_SS'})",0.0013359782608695651
+"frozenset({'Label_1', 'Duration_2_SS', 'Cumuration3_M', 'Cumuration2_SS', 'Duration_1_SS'})",0.0013359782608695651
+"frozenset({'Duration_2_S', 'Label_1', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Label_1', 'Duration_1_SS', 'Duration_2_LL', 'Cumuration2_LL'})",0.002173913043478261
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Duration_2_SS', 'Cumuration1_SS', 'Duration_3_SS', 'Label_1', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Label_1', 'Duration_3_S', 'Duration_1_SS', 'Duration_3_SS'})",0.0015006521739130434
+"frozenset({'Duration_3_M', 'Cumuration3_S', 'Label_1', 'Cumuration1_SS', 'Cumuration3_M', 'Cumuration2_SS'})",0.0013359782608695651
+"frozenset({'Duration_3_M', 'Cumuration3_S', 'Label_1', 'Cumuration3_M', 'Cumuration2_SS', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Cumuration1_SS', 'Label_1', 'Cumuration3_SS'})",0.002625565217391304
+"frozenset({'Label_1', 'Cumuration1_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Duration_3_S'})",0.0015006521739130434
+"frozenset({'Label_1', 'Duration_2_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration3_SS'})",0.9821652826086956
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Duration_1_SS'})",0.002625565217391304
+"frozenset({'Label_1', 'Cumuration3_LL', 'Duration_1_SS', 'Cumuration2_LL'})",0.002173913043478261
+"frozenset({'Cumuration3_LL', 'Cumuration1_SS', 'Duration_3_SS', 'Duration_2_LL', 'Label_1', 'Duration_1_SS'})",0.002173913043478261
+"frozenset({'Label_1', 'Duration_2_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Label_1', 'Duration_2_S', 'Duration_1_SS', 'Cumuration2_S'})",0.0049639565217391305
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Cumuration1_SS', 'Duration_3_SS', 'Label_1'})",0.0049639565217391305
+"frozenset({'Label_1', 'Cumuration3_LL', 'Duration_1_SS', 'Duration_3_SS'})",0.002173913043478261
+"frozenset({'Duration_3_M', 'Cumuration3_S', 'Label_1', 'Cumuration1_SS', 'Cumuration2_SS', 'Duration_1_SS'})",0.0013359782608695651
+"frozenset({'Cumuration3_S', 'Label_1', 'Cumuration1_SS', 'Cumuration2_SS', 'Cumuration3_SS', 'Duration_3_S'})",0.0009307173913043476
+"frozenset({'Cumuration1_SS', 'Duration_1_SS', 'Duration_3_SS', 'Duration_2_LL', 'Label_1', 'Cumuration2_LL'})",0.002173913043478261
+"frozenset({'Cumuration2_SS', 'Label_1', 'Cumuration3_SS', 'Duration_3_SS'})",0.9821652826086956
+"frozenset({'Duration_2_S', 'Cumuration1_SS', 'Duration_3_SS', 'Label_1', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Label_1', 'Duration_2_SS', 'Cumuration3_M', 'Duration_1_SS', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Duration_2_S', 'Duration_2_SS', 'Cumuration2_SS', 'Cumuration2_S', 'Cumuration3_S', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS'})",0.002625565217391304
+"frozenset({'Cumuration2_SS', 'Label_1', 'Duration_2_SS', 'Cumuration3_SS'})",0.9821652826086956
+"frozenset({'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Cumuration2_SS', 'Cumuration3_SS', 'Duration_3_S'})",0.0009307173913043476
+"frozenset({'Duration_2_S', 'Duration_2_SS', 'Duration_3_SS', 'Label_1', 'Duration_1_SS'})",0.002625565217391304
+"frozenset({'Label_1', 'Duration_2_S', 'Duration_2_SS', 'Duration_3_SS'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Label_1', 'Cumuration1_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration3_SS'})",0.002625565217391304
+"frozenset({'Label_1', 'Duration_1_SS', 'Duration_2_LL', 'Duration_3_SS'})",0.002173913043478261
+"frozenset({'Cumuration3_S', 'Label_1', 'Cumuration1_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Cumuration2_SS', 'Duration_2_S', 'Cumuration3_S', 'Label_1'})",0.002625565217391304
+"frozenset({'Label_1', 'Duration_3_S', 'Duration_2_SS', 'Duration_3_SS'})",0.0015006521739130434
+"frozenset({'Duration_3_M', 'Label_1', 'Cumuration1_SS', 'Cumuration3_M', 'Duration_1_SS'})",0.0013359782608695651
+"frozenset({'Duration_2_S', 'Label_1', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Duration_3_S'})",0.0015006521739130434
+"frozenset({'Label_1', 'Duration_1_SS', 'Duration_2_SS'})",0.9928621304347827
+"frozenset({'Cumuration3_S', 'Duration_3_SS', 'Label_1', 'Duration_1_SS', 'Cumuration3_SS', 'Duration_3_S'})",0.0009307173913043476
+"frozenset({'Duration_2_S', 'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Cumuration3_S', 'Duration_2_SS', 'Label_1', 'Duration_1_SS', 'Cumuration3_SS', 'Duration_3_S'})",0.0009307173913043476
+"frozenset({'Cumuration3_S', 'Duration_2_SS', 'Cumuration1_SS', 'Duration_3_SS', 'Label_1', 'Duration_1_SS', 'Duration_3_S'})",0.0015006521739130434
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Duration_3_SS', 'Label_1', 'Cumuration3_SS'})",0.002625565217391304
+"frozenset({'Cumuration3_S', 'Label_1', 'Cumuration1_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Label_1', 'Cumuration1_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration3_SS'})",0.9821652826086956
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Label_1', 'Cumuration2_SS', 'Duration_1_SS'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Label_1', 'Cumuration1_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration3_SS'})",0.002625565217391304
+"frozenset({'Cumuration2_SS', 'Label_1', 'Cumuration1_SS', 'Cumuration3_M'})",0.0013359782608695651
+"frozenset({'Cumuration2_SS', 'Duration_2_S', 'Label_1', 'Duration_2_SS'})",0.002625565217391304
+"frozenset({'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Cumuration2_SS', 'Duration_3_S'})",0.007610804347826087
+"frozenset({'Label_1', 'Cumuration3_S'})",0.014324826086956522
+"frozenset({'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Cumuration3_M', 'Duration_1_SS', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Cumuration3_S', 'Duration_3_SS', 'Label_1', 'Duration_1_SS', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_3_M', 'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Cumuration3_M', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Label_1', 'Cumuration3_S', 'Duration_2_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Duration_2_SS', 'Duration_3_SS', 'Label_1'})",0.002625565217391304
+"frozenset({'Label_1', 'Cumuration1_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Duration_1_SS'})",0.983915347826087
+"frozenset({'Duration_2_SS', 'Cumuration1_SS', 'Duration_3_SS', 'Label_1', 'Cumuration3_SS'})",0.9821652826086956
+"frozenset({'Duration_2_SS', 'Cumuration1_SS', 'Duration_3_SS', 'Label_1', 'Duration_1_SS', 'Cumuration3_SS'})",0.9821652826086956
+"frozenset({'Label_1', 'Duration_2_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration3_SS', 'Duration_3_S'})",0.0009307173913043476
+"frozenset({'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Label_1', 'Duration_2_S', 'Duration_3_SS'})",0.0049639565217391305
+"frozenset({'Cumuration3_M', 'Label_1', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Duration_2_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration2_S', 'Cumuration3_S', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS'})",0.002625565217391304
+"frozenset({'Cumuration3_S', 'Cumuration1_SS', 'Duration_3_SS', 'Label_1', 'Duration_1_SS', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Cumuration1_SS', 'Duration_3_SS', 'Label_1', 'Duration_1_SS', 'Cumuration3_SS'})",0.9821652826086956
+"frozenset({'Label_1', 'Duration_2_SS', 'Cumuration3_SS', 'Duration_3_S'})",0.0009307173913043476
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Duration_3_SS', 'Cumuration2_SS'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Duration_3_SS', 'Label_1', 'Duration_1_SS'})",0.0049639565217391305
+"frozenset({'Duration_2_SS', 'Duration_3_SS', 'Label_1', 'Duration_1_SS', 'Cumuration3_SS', 'Duration_3_S'})",0.0009307173913043476
+"frozenset({'Label_1', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration3_SS', 'Duration_3_S'})",0.0009307173913043476
+"frozenset({'Duration_3_M', 'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Cumuration2_SS', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Cumuration1_SS', 'Duration_3_SS', 'Duration_2_LL', 'Label_1', 'Cumuration2_LL'})",0.002173913043478261
+"frozenset({'Label_1', 'Cumuration3_M', 'Cumuration2_SS', 'Duration_1_SS', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Duration_2_S', 'Label_1', 'Duration_3_SS', 'Cumuration2_SS', 'Duration_1_SS'})",0.002625565217391304
+"frozenset({'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration3_SS', 'Duration_3_S'})",0.0009307173913043476
+"frozenset({'Cumuration3_M', 'Duration_3_M', 'Cumuration3_S', 'Label_1'})",0.0013359782608695651
+"frozenset({'Cumuration2_SS', 'Duration_3_S', 'Label_1', 'Duration_3_SS'})",0.0015006521739130434
+"frozenset({'Label_1', 'Duration_2_LL', 'Duration_3_SS'})",0.002173913043478261
+"frozenset({'Duration_2_S', 'Cumuration1_SS', 'Duration_3_SS', 'Label_1', 'Cumuration3_SS'})",0.002625565217391304
+"frozenset({'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Cumuration3_M', 'Duration_3_S', 'Cumuration2_SS'})",0.0013359782608695651
+"frozenset({'Cumuration2_SS', 'Label_1', 'Cumuration3_SS'})",0.9821652826086956
+"frozenset({'Duration_3_M', 'Cumuration3_S', 'Duration_2_SS', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Cumuration2_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Label_1', 'Cumuration3_LL', 'Cumuration1_SS', 'Duration_3_SS'})",0.002173913043478261
+"frozenset({'Label_1', 'Duration_2_S', 'Cumuration1_SS', 'Cumuration2_S'})",0.0049639565217391305
+"frozenset({'Cumuration3_S', 'Label_1', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration3_SS', 'Duration_3_S'})",0.0009307173913043476
+"frozenset({'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Cumuration2_SS', 'Duration_1_SS'})",0.011986434782608696
+"frozenset({'Duration_3_M', 'Label_1', 'Duration_2_SS', 'Cumuration3_M', 'Cumuration2_SS', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Label_1', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Duration_2_SS', 'Cumuration1_SS', 'Duration_3_SS', 'Label_1'})",0.002625565217391304
+"frozenset({'Cumuration3_S', 'Label_1', 'Duration_3_SS', 'Cumuration2_SS', 'Duration_1_SS'})",0.005306347826086955
+"frozenset({'Cumuration2_SS', 'Label_1', 'Cumuration3_M'})",0.0013359782608695651
+"frozenset({'Cumuration3_S', 'Duration_2_SS', 'Duration_3_SS', 'Label_1', 'Cumuration3_SS'})",0.004077717391304347
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Duration_2_SS', 'Cumuration1_SS', 'Duration_3_SS', 'Label_1', 'Cumuration3_SS'})",0.002625565217391304
+"frozenset({'Cumuration1_SS', 'Label_1', 'Duration_2_SS', 'Cumuration3_M'})",0.0013359782608695651
+"frozenset({'Label_1', 'Duration_3_M', 'Duration_1_SS', 'Cumuration3_S'})",0.0013359782608695651
+"frozenset({'Cumuration3_S', 'Label_1', 'Cumuration3_M', 'Cumuration2_SS', 'Duration_1_SS'})",0.0013359782608695651
+"frozenset({'Cumuration2_SS', 'Cumuration3_S', 'Label_1', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_2_SS', 'Cumuration1_SS', 'Duration_3_SS', 'Label_1', 'Duration_1_SS'})",0.983915347826087
+"frozenset({'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Cumuration3_M', 'Cumuration2_SS', 'Duration_1_SS', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Label_1', 'Duration_2_S', 'Cumuration2_S'})",0.0049639565217391305
+"frozenset({'Cumuration2_SS', 'Cumuration3_S', 'Label_1', 'Duration_2_SS'})",0.011986434782608696
+"frozenset({'Label_1', 'Duration_2_S', 'Duration_1_SS', 'Duration_2_SS'})",0.002625565217391304
+"frozenset({'Duration_2_SS', 'Cumuration1_SS', 'Duration_3_SS', 'Label_1', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Label_1', 'Duration_3_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration3_SS', 'Cumuration2_S', 'Cumuration3_S', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Label_1', 'Duration_2_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Cumuration3_S', 'Duration_2_SS', 'Duration_3_SS', 'Label_1', 'Duration_1_SS', 'Duration_3_S'})",0.0015006521739130434
+"frozenset({'Cumuration3_S', 'Label_1', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Label_1', 'Duration_1_SS', 'Cumuration1_SS', 'Duration_3_SS'})",0.9910532173913044
+"frozenset({'Duration_2_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration3_SS', 'Cumuration2_S', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS'})",0.002625565217391304
+"frozenset({'Cumuration3_S', 'Cumuration1_SS', 'Duration_3_SS', 'Label_1', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Duration_2_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration2_S', 'Cumuration3_S', 'Label_1', 'Duration_1_SS'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Duration_2_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration3_S', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS'})",0.002625565217391304
+"frozenset({'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Cumuration2_SS', 'Duration_3_S'})",0.007610804347826087
+"frozenset({'Label_1', 'Duration_1_SS', 'Duration_3_SS', 'Cumuration2_S'})",0.0049639565217391305
+"frozenset({'Duration_2_S', 'Label_1', 'Duration_2_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Cumuration2_SS', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Cumuration3_S', 'Duration_3_SS', 'Label_1', 'Duration_1_SS', 'Duration_3_S'})",0.0015006521739130434
+"frozenset({'Duration_2_S', 'Duration_2_SS', 'Cumuration1_SS', 'Duration_3_SS', 'Label_1', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Cumuration3_S', 'Label_1', 'Duration_3_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_3_M', 'Cumuration3_S', 'Label_1', 'Cumuration1_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Duration_3_M', 'Label_1', 'Cumuration1_SS', 'Cumuration3_M', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Label_1', 'Duration_1_SS', 'Duration_2_SS', 'Duration_3_S'})",0.007610804347826087
+"frozenset({'Label_1', 'Duration_2_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Cumuration2_SS', 'Cumuration3_SS', 'Duration_3_S'})",0.0009307173913043476
+"frozenset({'Cumuration1_SS', 'Label_1', 'Duration_2_SS', 'Cumuration2_SS'})",0.9928621304347827
+"frozenset({'Duration_3_M', 'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Cumuration3_M', 'Duration_1_SS'})",0.0013359782608695651
+"frozenset({'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Cumuration3_M', 'Duration_1_SS'})",0.0013359782608695651
+"frozenset({'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Cumuration3_M', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Cumuration1_SS', 'Label_1', 'Cumuration2_S'})",0.0049639565217391305
+"frozenset({'Cumuration3_M', 'Duration_1_SS', 'Label_1'})",0.0013359782608695651
+"frozenset({'Duration_2_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration3_SS', 'Duration_3_S', 'Cumuration3_S', 'Label_1', 'Duration_1_SS'})",0.0009307173913043476
+"frozenset({'Cumuration2_SS', 'Duration_2_S', 'Duration_1_SS', 'Label_1'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Cumuration2_SS', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_3_M', 'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Cumuration3_M', 'Cumuration2_SS', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Label_1', 'Cumuration3_S', 'Cumuration1_SS', 'Duration_3_SS'})",0.007644739130434783
+"frozenset({'Duration_2_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration3_SS', 'Cumuration2_S', 'Cumuration3_S', 'Cumuration1_SS', 'Label_1'})",0.002625565217391304
+"frozenset({'Cumuration2_SS', 'Duration_3_M', 'Cumuration3_S', 'Label_1'})",0.0013359782608695651
+"frozenset({'Label_1', 'Duration_2_S', 'Cumuration3_SS', 'Duration_3_SS'})",0.002625565217391304
+"frozenset({'Duration_2_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration3_SS', 'Duration_3_S', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS'})",0.0009307173913043476
+"frozenset({'Cumuration3_S', 'Duration_2_SS', 'Cumuration1_SS', 'Duration_3_SS', 'Label_1', 'Cumuration3_SS', 'Duration_3_S'})",0.0009307173913043476
+"frozenset({'Label_1', 'Duration_1_SS', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Cumuration3_M', 'Duration_1_SS', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Cumuration2_SS', 'Duration_3_M', 'Label_1'})",0.0013359782608695651
+"frozenset({'Label_1', 'Cumuration3_S', 'Cumuration1_SS', 'Cumuration3_SS'})",0.004077717391304347
+"frozenset({'Duration_2_S', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration3_SS', 'Cumuration2_S', 'Cumuration3_S', 'Cumuration1_SS', 'Label_1'})",0.002625565217391304
+"frozenset({'Cumuration3_S', 'Label_1', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_3_M', 'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Cumuration2_SS', 'Duration_1_SS'})",0.0013359782608695651
+"frozenset({'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Cumuration2_SS', 'Label_1', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Cumuration3_S', 'Duration_2_SS', 'Duration_3_SS', 'Label_1', 'Duration_1_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Cumuration3_S', 'Cumuration1_SS', 'Duration_3_SS', 'Label_1', 'Cumuration3_SS'})",0.004077717391304347
+"frozenset({'Duration_2_S', 'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Cumuration2_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Label_1', 'Cumuration1_SS', 'Cumuration2_S'})",0.0049639565217391305
+"frozenset({'Duration_2_S', 'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Cumuration2_SS', 'Duration_1_SS'})",0.002625565217391304
+"frozenset({'Cumuration2_SS', 'Cumuration3_S', 'Label_1', 'Cumuration3_SS'})",0.004077717391304347
+"frozenset({'Duration_3_M', 'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Cumuration2_SS', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Cumuration3_M', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Duration_2_S', 'Duration_2_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration3_SS', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS'})",0.002625565217391304
+"frozenset({'Cumuration3_S', 'Duration_2_SS', 'Cumuration1_SS', 'Duration_3_SS', 'Label_1', 'Duration_1_SS', 'Cumuration3_SS'})",0.004077717391304347
+"frozenset({'Label_1', 'Duration_3_M', 'Cumuration1_SS'})",0.0013359782608695651
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Duration_3_SS', 'Label_1', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Duration_2_SS', 'Cumuration1_SS', 'Label_1', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Label_1', 'Cumuration1_SS', 'Duration_3_SS', 'Cumuration2_LL'})",0.002173913043478261
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Label_1', 'Cumuration1_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration3_SS'})",0.9821652826086956
+"frozenset({'Label_1', 'Duration_2_S'})",0.0049639565217391305
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Cumuration2_SS'})",0.002625565217391304
+"frozenset({'Label_1', 'Cumuration3_S', 'Duration_1_SS'})",0.014324826086956522
+"frozenset({'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Cumuration2_SS', 'Cumuration3_SS'})",0.9821652826086956
+"frozenset({'Duration_2_S', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration3_SS', 'Cumuration2_S', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS'})",0.002625565217391304
+"frozenset({'Cumuration2_SS', 'Cumuration3_S', 'Label_1', 'Duration_3_SS'})",0.005306347826086955
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Label_1', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_3_M', 'Label_1', 'Cumuration1_SS', 'Cumuration2_SS', 'Duration_1_SS'})",0.0013359782608695651
+"frozenset({'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Duration_3_S'})",0.0015006521739130434
+"frozenset({'Cumuration1_SS', 'Duration_3_SS', 'Label_1', 'Duration_1_SS', 'Cumuration3_SS', 'Duration_3_S'})",0.0009307173913043476
+"frozenset({'Duration_2_SS', 'Duration_3_SS', 'Cumuration3_SS', 'Duration_3_S', 'Cumuration3_S', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS'})",0.0009307173913043476
+"frozenset({'Duration_2_S', 'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Cumuration2_SS'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Duration_2_SS', 'Cumuration1_SS', 'Label_1', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Label_1', 'Duration_3_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration3_SS'})",0.002625565217391304
+"frozenset({'Cumuration2_SS', 'Duration_1_SS', 'Label_1', 'Cumuration3_M'})",0.0013359782608695651
+"frozenset({'Label_1', 'Duration_2_SS', 'Cumuration2_SS', 'Cumuration3_SS', 'Duration_3_S'})",0.0009307173913043476
+"frozenset({'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Cumuration2_SS', 'Cumuration3_SS'})",0.004077717391304347
+"frozenset({'Label_1', 'Duration_2_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration3_SS'})",0.004077717391304347
+"frozenset({'Duration_2_S', 'Duration_2_SS', 'Duration_3_SS', 'Cumuration3_SS', 'Cumuration2_S', 'Cumuration3_S', 'Cumuration1_SS', 'Label_1'})",0.002625565217391304
+"frozenset({'Duration_3_M', 'Label_1', 'Cumuration1_SS', 'Cumuration3_M', 'Cumuration2_SS', 'Duration_1_SS', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Cumuration3_LL', 'Duration_3_SS', 'Duration_2_LL', 'Label_1', 'Cumuration2_LL'})",0.002173913043478261
+"frozenset({'Label_1', 'Duration_2_LL'})",0.002173913043478261
+"frozenset({'Label_1', 'Cumuration1_SS'})",1.0
+"frozenset({'Cumuration3_S', 'Cumuration1_SS', 'Duration_3_SS', 'Label_1', 'Duration_1_SS', 'Cumuration2_S'})",0.0049639565217391305
+"frozenset({'Duration_2_S', 'Label_1', 'Duration_2_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_3_M', 'Label_1', 'Duration_2_SS', 'Cumuration3_M', 'Cumuration2_SS', 'Duration_1_SS', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Duration_2_S', 'Duration_3_SS', 'Label_1', 'Duration_1_SS', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Cumuration2_SS', 'Label_1', 'Cumuration1_SS', 'Cumuration3_SS'})",0.9821652826086956
+"frozenset({'Cumuration3_S', 'Label_1', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Label_1', 'Duration_2_LL', 'Cumuration1_SS', 'Duration_3_SS'})",0.002173913043478261
+"frozenset({'Label_1', 'Cumuration1_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration3_SS', 'Duration_3_S'})",0.0009307173913043476
+"frozenset({'Cumuration3_S', 'Duration_2_SS', 'Duration_3_SS', 'Label_1', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_3_M', 'Duration_2_SS', 'Cumuration2_SS', 'Cumuration3_M', 'Duration_3_S', 'Cumuration3_S', 'Label_1', 'Duration_1_SS'})",0.0013359782608695651
+"frozenset({'Label_1', 'Cumuration3_LL', 'Duration_3_SS'})",0.002173913043478261
+"frozenset({'Cumuration2_SS', 'Label_1', 'Duration_3_S'})",0.007610804347826087
+"frozenset({'Label_1', 'Cumuration3_SS'})",0.9821652826086956
+"frozenset({'Cumuration3_S', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Label_1', 'Duration_3_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Duration_3_S'})",0.0015006521739130434
+"frozenset({'Duration_2_S', 'Label_1', 'Cumuration1_SS', 'Cumuration2_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Duration_2_SS', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Label_1', 'Duration_3_SS', 'Cumuration2_LL'})",0.002173913043478261
+"frozenset({'Cumuration3_S', 'Label_1', 'Cumuration2_SS', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Label_1', 'Cumuration1_SS', 'Cumuration2_SS', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_2_SS', 'Label_1', 'Duration_1_SS', 'Cumuration3_SS', 'Duration_3_S'})",0.0009307173913043476
+"frozenset({'Duration_3_M', 'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Cumuration3_M', 'Duration_1_SS'})",0.0013359782608695651
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Duration_2_SS', 'Duration_3_SS', 'Label_1', 'Cumuration3_SS'})",0.002625565217391304
+"frozenset({'Label_1', 'Duration_2_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Duration_3_S'})",0.0015006521739130434
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Cumuration1_SS', 'Duration_3_SS', 'Label_1', 'Duration_1_SS', 'Cumuration2_S'})",0.0049639565217391305
+"frozenset({'Label_1', 'Cumuration3_S', 'Duration_2_SS', 'Duration_3_SS'})",0.005306347826086955
+"frozenset({'Cumuration3_M', 'Duration_3_M', 'Label_1'})",0.0013359782608695651
+"frozenset({'Duration_2_S', 'Duration_2_SS', 'Label_1', 'Duration_1_SS', 'Cumuration3_SS'})",0.002625565217391304
+"frozenset({'Label_1', 'Duration_2_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Duration_1_SS'})",0.983915347826087
+"frozenset({'Duration_2_S', 'Label_1', 'Duration_2_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration3_SS'})",0.002625565217391304
+"frozenset({'Duration_3_M', 'Label_1', 'Duration_2_SS', 'Cumuration3_M', 'Cumuration2_SS', 'Duration_1_SS'})",0.0013359782608695651
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Label_1', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_3_SS', 'Cumuration2_SS', 'Cumuration3_SS', 'Duration_3_S', 'Cumuration3_S', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS'})",0.0009307173913043476
+"frozenset({'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Duration_3_SS', 'Cumuration2_SS'})",0.005306347826086955
+"frozenset({'Label_1', 'Duration_3_S', 'Duration_3_SS'})",0.0015006521739130434
+"frozenset({'Duration_1_SS', 'Duration_3_SS', 'Duration_2_LL', 'Label_1', 'Cumuration2_LL'})",0.002173913043478261
+"frozenset({'Cumuration1_SS', 'Label_1', 'Duration_2_SS', 'Duration_3_SS'})",0.983915347826087
+"frozenset({'Duration_2_S', 'Duration_2_SS', 'Cumuration1_SS', 'Duration_3_SS', 'Label_1', 'Duration_1_SS'})",0.002625565217391304
+"frozenset({'Duration_3_M', 'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Cumuration3_M'})",0.0013359782608695651
+"frozenset({'Duration_3_M', 'Duration_2_SS', 'Cumuration2_SS', 'Cumuration3_M', 'Duration_3_S', 'Cumuration3_S', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS'})",0.0013359782608695651
+"frozenset({'Cumuration3_S', 'Label_1', 'Cumuration1_SS', 'Duration_3_SS', 'Cumuration2_SS'})",0.005306347826086955
+"frozenset({'Duration_2_SS', 'Duration_3_SS', 'Cumuration3_SS', 'Cumuration2_S', 'Cumuration3_S', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS'})",0.002625565217391304
+"frozenset({'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Cumuration2_SS', 'Duration_3_S'})",0.007610804347826087
+"frozenset({'Label_1', 'Cumuration1_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration3_SS', 'Duration_3_S'})",0.0009307173913043476
+"frozenset({'Duration_3_M', 'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Cumuration3_S', 'Label_1', 'Cumuration1_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Duration_3_S'})",0.0015006521739130434
+"frozenset({'Label_1', 'Duration_3_M', 'Duration_1_SS'})",0.0013359782608695651
+"frozenset({'Duration_2_S', 'Cumuration1_SS', 'Duration_3_SS', 'Label_1', 'Duration_1_SS', 'Cumuration3_SS'})",0.002625565217391304
+"frozenset({'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration3_SS'})",0.004077717391304347
+"frozenset({'Duration_2_S', 'Label_1', 'Cumuration1_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Cumuration1_SS', 'Duration_3_M', 'Label_1', 'Duration_2_SS'})",0.0013359782608695651
+"frozenset({'Cumuration3_S', 'Label_1', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Cumuration2_SS', 'Cumuration3_SS', 'Cumuration2_S', 'Cumuration3_S', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS'})",0.002625565217391304
+"frozenset({'Label_1', 'Cumuration3_S', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Label_1', 'Duration_2_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Duration_1_SS'})",0.002625565217391304
+"frozenset({'Duration_3_M', 'Cumuration3_S', 'Label_1', 'Duration_1_SS', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Duration_3_M', 'Label_1', 'Cumuration1_SS', 'Cumuration2_SS', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Label_1', 'Duration_2_S', 'Duration_2_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Duration_3_M', 'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Cumuration3_M', 'Duration_1_SS'})",0.0013359782608695651
+"frozenset({'Duration_2_S', 'Duration_2_SS', 'Cumuration1_SS', 'Duration_3_SS', 'Label_1', 'Cumuration3_SS'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Duration_2_SS', 'Cumuration1_SS', 'Duration_3_SS', 'Label_1'})",0.002625565217391304
+"frozenset({'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Cumuration3_M', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Label_1', 'Cumuration3_S', 'Duration_3_S'})",0.007610804347826087
+"frozenset({'Cumuration1_SS', 'Duration_3_SS', 'Label_1', 'Duration_1_SS', 'Cumuration2_S'})",0.0049639565217391305
+"frozenset({'Duration_2_SS', 'Cumuration1_SS', 'Duration_3_SS', 'Label_1', 'Duration_1_SS', 'Duration_3_S'})",0.0015006521739130434
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Label_1', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration3_SS'})",0.002625565217391304
+"frozenset({'Duration_3_M', 'Label_1', 'Duration_2_SS', 'Cumuration1_SS', 'Cumuration3_M', 'Duration_3_S', 'Cumuration2_SS'})",0.0013359782608695651
+"frozenset({'Label_1', 'Duration_2_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration3_SS'})",0.9821652826086956
+"frozenset({'Duration_2_SS', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS', 'Duration_3_S'})",0.007610804347826087
+"frozenset({'Duration_2_S', 'Duration_3_SS', 'Cumuration3_SS', 'Cumuration2_S', 'Cumuration3_S', 'Cumuration1_SS', 'Label_1', 'Duration_1_SS'})",0.002625565217391304
+"frozenset({'Duration_2_S', 'Duration_2_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration2_S', 'Cumuration3_S', 'Cumuration1_SS', 'Label_1'})",0.002625565217391304
+"frozenset({'Cumuration1_SS', 'Duration_3_SS', 'Label_1', 'Duration_1_SS', 'Duration_3_S'})",0.0015006521739130434
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Duration_2_SS', 'Duration_3_SS', 'Label_1', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Label_1', 'Cumuration1_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Cumuration2_SS', 'Duration_2_S', 'Label_1'})",0.002625565217391304
+"frozenset({'Cumuration2_SS', 'Duration_3_M', 'Label_1', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Duration_3_M', 'Cumuration3_S', 'Label_1', 'Cumuration3_M', 'Duration_3_S'})",0.0013359782608695651
+"frozenset({'Cumuration1_SS', 'Duration_2_S', 'Label_1', 'Duration_2_SS'})",0.002625565217391304
+"frozenset({'Label_1', 'Cumuration3_S', 'Duration_3_SS'})",0.007644739130434783
+"frozenset({'Label_1', 'Cumuration2_SS', 'Duration_1_SS', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Label_1', 'Duration_2_S', 'Cumuration1_SS', 'Duration_3_SS'})",0.0049639565217391305
+"frozenset({'Duration_2_S', 'Duration_2_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration3_SS', 'Cumuration2_S', 'Cumuration1_SS', 'Label_1'})",0.002625565217391304
+"frozenset({'Label_1', 'Cumuration3_LL', 'Duration_3_SS', 'Cumuration2_LL'})",0.002173913043478261
+"frozenset({'Duration_2_S', 'Cumuration3_S', 'Label_1', 'Cumuration1_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Label_1', 'Cumuration3_S', 'Duration_2_SS'})",0.011986434782608696
+"frozenset({'Cumuration3_S', 'Label_1', 'Duration_2_SS', 'Duration_3_SS', 'Cumuration2_SS', 'Cumuration3_SS', 'Cumuration2_S'})",0.002625565217391304
+"frozenset({'Cumuration3_M', 'Cumuration3_S', 'Label_1', 'Duration_2_SS'})",0.0013359782608695651

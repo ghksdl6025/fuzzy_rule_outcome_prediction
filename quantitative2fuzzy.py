@@ -1,16 +1,14 @@
-
 import matplotlib.pyplot as plt
 import pandas as pd
 from sklearn import preprocessing
 import numpy as np
 import math
 import sys
-
+pd.set_option('display.max_columns',20)
 sys.path.insert(0,'./Utils/')
 import get_membership
-# df = pd.read_csv('../new paper/bpic2015/ltl1/BPIC15_1prep.csv')
 
-def normalize_atts(df,att,prefix):
+def normalize_atts(df,att,prefix,method):
     '''
     Slice event log by prefix length and normalize target attributes in min max scaling which has range [0,1]
 
@@ -24,6 +22,8 @@ def normalize_atts(df,att,prefix):
         Prefix length for slicing event log that all cases are longer than prefix length.
     In this sample case, only timestamp is used to generate duration and cumulative duration.
 
+    method : str
+        Which method to normalize (Minmax, Robust)
     Returns
     ----------
     Dataframe with case id, duration, cumulative duration, and label. 
@@ -31,40 +31,54 @@ def normalize_atts(df,att,prefix):
     df = df.rename(columns={'case_id':'Case ID','timestamp':'Complete Timestamp'})
     df['Complete Timestamp'] = pd.to_datetime(df['Complete Timestamp'])
     groups = df.groupby('Case ID')
-    caseidlist = []
-    durationlist= []
-    cumdurationlist = []
-    labellist= []
+    casegroup = []
+    quantitativenames = set()
     for caseid,group in groups:
         if len(group) >prefix:
             group = group.sort_values(by='Complete Timestamp')
             timelist = list(group['Complete Timestamp'])[:prefix]
             label = set(group['Label']).pop()
-            for t in range(0, len(timelist)):
-                caseidlist.append(caseid)
-                labellist.append(label)
-                if t ==0:
-                    durationlist.append(0)
-                    cumdurationlist.append(0)
-                else:        
-                    durationlist.append((timelist[t]-timelist[t-1]).total_seconds())
-                    cumdurationlist.append((timelist[t]-timelist[0]).total_seconds())
-        
+            case_outcome = {'Case ID':caseid, 'Label':label}
+            duration_index={}
+            cumduration_index={}
 
-    t = [x/max(durationlist) for x in durationlist]
-    t = np.round_(t,5)    
-    durationlist  =[float(x) for x in t] 
+            for t in range(0, len(timelist)):
+                if t ==0:
+
+                    pass
+                else:        
+                    duration_index['Duration_'+str(t+1)] = (timelist[t]-timelist[t-1]).total_seconds()
+                    cumduration_index['Cumduration_'+str(t+1)] = (timelist[t]-timelist[0]).total_seconds()
+                    quantitativenames.add('Duration_'+str(t+1))
+                    quantitativenames.add('Cumduration_'+str(t+1))
+
+            case_outcome.update(duration_index)
+            case_outcome.update(cumduration_index)
+            casegroup.append(pd.DataFrame.from_dict([case_outcome]))
+    dfn = pd.concat(casegroup)
+    dfn = dfn.fillna(0)
     
-    # t = preprocessing.scale(cumdurationlist)
-    t = [x/max(cumdurationlist) for x in cumdurationlist]
-    t = np.round_(t,5)
-    cumdurationlist  =[float(x) for x in t] 
-    df = pd.DataFrame(columns=['Case ID','Duration','Cumduration'])
-    df['Case ID'] = caseidlist
-    df['Duration'] = durationlist
-    df['Cumduration'] = cumdurationlist
-    df['Label'] = labellist
-    return df
+
+    if method =='Normalize':
+        for att in quantitativenames:
+            target_att = list(dfn[att])
+            target_mean = np.mean(target_att)
+            target_std = np.std(target_att)
+            target_att = [(x-target_mean)/target_std for x in target_att]
+            
+            dfn[att] = target_att
+
+    elif method =='SigmoidNormalize':
+        for att in quantitativenames:
+            target_att = list(dfn[att])
+            target_mean = np.mean(target_att)
+            target_std = np.std(target_att)
+            target_att = [(x-target_mean)/target_std for x in target_att]
+            normalized = [1/(1+np.exp(-x)) for x in target_att]
+            normalized = np.round_(normalized,5)
+            dfn[att] = normalized
+    dfn = dfn.reset_index(drop=True)
+    return dfn ,quantitativenames
 
 def generate_membership_label(membership_number):
     '''
@@ -93,8 +107,7 @@ def generate_membership_label(membership_number):
     return membership_label
 
 
-
-def time2fuzzification(df,membership_number):
+def time2fuzzification(df,membership_number,quantitative_atts):
     '''
     Get dataframe with quantitative attributes and fuzzify items and return dataframe with fuzzified itemsets.
     (In this case only time related attributes are used, duration and cumulative duration)
@@ -112,7 +125,6 @@ def time2fuzzification(df,membership_number):
     '''
     membership_label = generate_membership_label(membership_number)    
     membership_function = get_membership.membership_f(get_membership.uniform_plotting_membership(membership_number))
-    
     locs = [x[0] for x in get_membership.uniform_plotting_membership(membership_number).values()]
     alloc =[]
     for loc in locs:
@@ -121,18 +133,11 @@ def time2fuzzification(df,membership_number):
     maxloc = max(alloc)
     membership_names = list(membership_function.keys())
 
-
-    membership_labelset = set()
-    groups = normalized_time_df.groupby('Case ID')
-    fuzzy_set_list = []
-    for caseid, group in groups:
-        duration = list(group['Duration'])
-        label = set(group['Label']).pop()
-        fuzzy_set = {}
-
-        #Fuzzify duration
-        for pos,dur in enumerate(duration):
-            mlabel_prefix = 'Duration_'+str(pos+1)+'_'
+    for att in quantitative_atts:
+        for row in range(len(df)):
+            dur = df.loc[row,att]
+            fuzzy_set ={}
+            mlabel_prefix = att+'_'
             if dur <= minloc:
                 fuzzy_set[mlabel_prefix+membership_label[membership_names[0]]] = 1.0
             elif dur > maxloc:
@@ -143,40 +148,20 @@ def time2fuzzification(df,membership_number):
                         if interval[1] >= dur > interval[0]:
                             membership_value = membership_function[membership]['Value'][pos][0] * dur + membership_function[membership]['Value'][pos][1]
                             fuzzy_set[mlabel_prefix+membership_label[membership]] = membership_value
-            for t in fuzzy_set.keys(): membership_labelset.add(t)
+            for t in fuzzy_set.keys():
+                df.loc[row,t] = fuzzy_set[t]
+    
+    df = df.drop(columns=list(quantitative_atts),axis=1)
+    df = df.fillna(0)
 
-        #Fuzzify cumduration
-        duration = list(group['Cumduration'])
-        for pos,dur in enumerate(duration):
-            mlabel_prefix = 'Cumuration'+str(pos+1)+'_'
-            if dur <= minloc:
-                fuzzy_set[mlabel_prefix+membership_label[membership_names[0]]] = 1.0
-            elif dur > maxloc:
-                fuzzy_set[mlabel_prefix+membership_label[membership_names[-1]]] = 1.0
-            else:
-                for membership in membership_names:
-                    for pos, interval in enumerate(membership_function[membership]['Split_interval']):
-                        if interval[1] >= dur > interval[0]:
-                            membership_value = membership_function[membership]['Value'][pos][0] * dur + membership_function[membership]['Value'][pos][1]
-                            fuzzy_set[mlabel_prefix+membership_label[membership]] = membership_value
-            for t in fuzzy_set.keys(): membership_labelset.add(t)
-
-        fuzzy_set['Case ID'] = caseid
-        fuzzy_set['Label'] = label
-        fuzzy_set_list.append(fuzzy_set)
-
-    dfk = pd.DataFrame.from_dict(fuzzy_set_list,orient='columns')
-    dfk = dfk.fillna(0)
-    return dfk
-
+    return df
 
 if __name__ =='__main__':
-    prefix = 3
+    prefix = 5
     membership_number = 5
     # df = pd.read_csv('../special_topics/data/hospital_billing.csv')
-    df = pd.read_csv('../new paper/bpic2011/ltl1/bpic2011prep.csv')
-    
-    normalized_time_df =normalize_atts(df,'Complete Timestamp',prefix)    
-    fuzzified_df = time2fuzzification(df,membership_number)
-    print(fuzzified_df.head)
+    df = pd.read_csv('../new paper/sepsis/Sepsis Cases_pre.csv')
 
+    normalized_time_df,quantitative_atts =normalize_atts(df,'Complete Timestamp',prefix,'SigmoidNormalize')    
+    fuzzified_df = time2fuzzification(normalized_time_df,membership_number,quantitative_atts)
+    fuzzified_df.to_csv('./fuzzified.csv',index=False)

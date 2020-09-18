@@ -1,0 +1,16 @@
+Itemset,Support
+"frozenset({'Cumduration_3_M', 'Duration_2_M', 'Label_0'})",0.8701467958271224
+"frozenset({'Cumduration_2_M', 'Duration_2_M', 'Duration_3_M', 'Label_0'})",0.8998023397913557
+"frozenset({'Cumduration_2_M', 'Duration_3_M', 'Label_0'})",0.8998023397913557
+"frozenset({'Cumduration_2_M', 'Duration_3_M', 'Cumduration_3_M', 'Label_0'})",0.8642682861400881
+"frozenset({'Cumduration_3_M', 'Duration_3_M', 'Cumduration_2_M', 'Duration_2_M', 'Label_0'})",0.8642682861400881
+"frozenset({'Cumduration_2_M', 'Label_0'})",0.9258055886736208
+"frozenset({'Cumduration_2_M', 'Duration_2_M', 'Label_0'})",0.9258055886736208
+"frozenset({'Cumduration_2_M', 'Duration_2_M', 'Cumduration_3_M', 'Label_0'})",0.8701467958271224
+"frozenset({'Duration_2_M', 'Duration_3_M', 'Label_0'})",0.8998023397913557
+"frozenset({'Cumduration_3_M', 'Duration_2_M', 'Duration_3_M', 'Label_0'})",0.8642682861400881
+"frozenset({'Cumduration_2_M', 'Cumduration_3_M', 'Label_0'})",0.8701467958271224
+"frozenset({'Cumduration_3_M', 'Label_0'})",0.9011587779433667
+"frozenset({'Duration_3_M', 'Label_0'})",0.968603859910581
+"frozenset({'Cumduration_3_M', 'Duration_3_M', 'Label_0'})",0.8946914754098347
+"frozenset({'Duration_2_M', 'Label_0'})",0.9258055886736208
