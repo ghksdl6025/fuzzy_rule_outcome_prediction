@@ -7,6 +7,11 @@ suhwan Lee
 
 ## Update
 
+20.09.25
+
+- Apriori algorithm with fuzzified itemset mining is done. Each label dataframe has unique rule only assigned for the label.
+- Now, the next step is to construct classifier and plot network. Then compare the network and prediction performance to normal ARM method.
+
 20.09.15
 
 - Still writing code for generating association rules from fuzzified item set dataframe

@@ -44,9 +44,17 @@ def fuzzy_frequent_itemset_mining(df,target_label,min_supp):
     ----------
     Pandas dataframe which has two column, itemset and Support 
     '''
+
+    length = len(df)
+    collist =[]
+    for col in list(df.columns.values):
+        if sum(df[col])/length >=min_supp:
+            collist.append(col)
+    df = df.loc[:,collist]
+
     dfrule_value = df.values.tolist()
     dfcolumn = np.array(df.columns.values)
-    
+    registerd_items=set()
     itemset_frequency = {}
     rowposition_dict ={}
     for pos,k in enumerate(dfrule_value):
@@ -54,33 +62,32 @@ def fuzzy_frequent_itemset_mining(df,target_label,min_supp):
         rowposition_dict[pos] = rowposition
     print('Getting sub itemset for FIM')
     for pos,k in enumerate(dfrule_value):
-       
+        if pos % 10 ==0:
+            print(pos,'/', len(dfrule_value))
         rowposition = rowposition_dict[pos]
-        print(pos,'/', len(dfrule_value),len(rowposition) ,len(itemset_frequency))
         itemset = dfcolumn[rowposition]
         itemset = itemset[itemset != target_label]
-        for x in tqdm(range(1,len(itemset)+1)):
+        for x in range(1,len(itemset)+1):
             itemset_group =set()
             for item in list(combinations(itemset,x)):
-                item = set(item)
+                item = set(sorted(item))
                 item.add(target_label)
-                itemset_group.add(frozenset(item))
-        
+                if frozenset(item) not in registerd_items:
+                    itemset_group.add(frozenset(item))
+                    registerd_items.add(frozenset(item))
+
             for item in itemset_group:
                 frequency_score = 0
-                if item in itemset_frequency.keys():
-                    pass
-                else:
-                    for pos,k in enumerate(dfrule_value):
-                        rowposition = rowposition_dict[pos]
-                        transaction_items = dfcolumn[rowposition]
-                        if item.issubset(transaction_items):
-                            dfcolumn =  np.array(dfcolumn)
-                            columindex = [x for x in range(len(dfcolumn)) if dfcolumn[x] in item]
-                            frequency_score += min(np.array(k)[columindex])
-                    
-                    if frequency_score/len(dfrule_value) >= min_supp:
-                        itemset_frequency[item] = round(frequency_score/len(dfrule_value),5)
+                for pos,k in enumerate(dfrule_value):
+                    rowposition = rowposition_dict[pos]
+                    transaction_items = dfcolumn[rowposition]
+                    if item.issubset(transaction_items):
+                        dfcolumn =  np.array(dfcolumn)
+                        columindex = [x for x in range(len(dfcolumn)) if dfcolumn[x] in item]
+                        frequency_score += min(np.array(k)[columindex])
+                
+                if frequency_score/len(dfrule_value) >= min_supp:
+                    itemset_frequency[item] = round(frequency_score/len(dfrule_value),5)
     print('Calculating support of association rules')
     
     itemsets = list(itemset_frequency.keys())
@@ -94,43 +101,42 @@ def fuzzy_frequent_itemset_mining(df,target_label,min_supp):
 
 if __name__ =='__main__':
     df = pd.read_csv('./bpic2015_concatanated_fuzzy_tx.csv')
-    dft = divide_label(df)
-    dft = dft.drop(columns=['Case ID'],axis=1)
-    label1rule = dft[dft['Label_1']==1].drop(columns=['Label_0'],axis=1)
-    label0rule = dft[dft['Label_0']==1].drop(columns=['Label_1'],axis=1)
+    # dft = divide_label(df)
+    df = df.drop(columns=['Case ID','Label'],axis=1)
+    label1rule = df[df['Label_1']==1].drop(columns=['Label_0'],axis=1)
+    label0rule = df[df['Label_0']==1].drop(columns=['Label_1'],axis=1)
     
-    min_supp = 0.95
+    min_supp = 0.7
     target_label = 'Label_1'
     df = fuzzy_frequent_itemset_mining(label1rule, target_label, min_supp)
-    association_rule_pos= []
-    supportlist = list(df['Support'])
-    for pos,x in enumerate(list(df['Itemset'])):
-        if target_label in x:
-            association_rule_pos.append(pos)
-    association_rule_df_1 = df.loc[association_rule_pos,:]            
-    antecedent_label1 = []
-    for x in list(association_rule_df_1['Itemset']):
-        t = list(x)
-        t.remove('Label_1')
-        antecedent_label1.append(sorted(t))
     
-    # association_rule_df.to_csv('./association_rule_df_label1.csv',index=False)
+    association_rule_pos= []        
+    antecedent_label1 = []
+    for x in list(df['Itemset']):
+        t = list(x)
+        t.remove(target_label)
+        antecedent_label1.append(sorted(t))
 
-    min_supp = 0.95
+    label1df = pd.DataFrame(columns=['Antecedents','Consequent','Support'])
+    label1df['Antecedents'] = antecedent_label1
+    label1df['Consequent'] = [target_label]*len(antecedent_label1)
+    label1df['Support'] = df['Support']
+    
     target_label = 'Label_0'
     df = fuzzy_frequent_itemset_mining(label0rule, target_label, min_supp)
+
     association_rule_pos= []
-    supportlist = list(df['Support'])
-    for pos,x in enumerate(list(df['Itemset'])):
-        if target_label in x:
-            association_rule_pos.append(pos)
-    association_rule_df_0 = df.loc[association_rule_pos,:]            
     antecedent_label0 = []
-    for x in list(association_rule_df_0['Itemset']):
+    for x in list(df['Itemset']):
         t = list(x)
-        t.remove('Label_0')
+        t.remove(target_label)
         antecedent_label0.append(sorted(t))
-    
+
+    label0df= pd.DataFrame(columns=['Antecedents','Consequent','Support'])
+    label0df['Antecedents'] = antecedent_label0
+    label0df['Consequent'] = [target_label]*len(antecedent_label0)
+    label0df['Support'] = df['Support']
+
     commonantecedent = []
     for common in antecedent_label1:
         if common in antecedent_label0:
@@ -138,9 +144,15 @@ if __name__ =='__main__':
     
     antecedent_label1 = [x for x in antecedent_label1 if x not in commonantecedent]
     antecedent_label0 = [x for x in antecedent_label0 if x not in commonantecedent]
-    print(antecedent_label1)
-    print(antecedent_label0)
 
-    # association_rule_df.to_csv('./association_rule_df_label0.csv',index=False)
-
+    uniqueposition0 = [pos for pos,x in enumerate(list(label0df['Antecedents'])) if x in antecedent_label0]
+    uniqueposition1 = [pos for pos,x in enumerate(list(label1df['Antecedents'])) if x in antecedent_label1]
     
+    label0df = label0df.iloc[uniqueposition0,:].reset_index(drop=True)
+    label1df = label1df.iloc[uniqueposition1,:].reset_index(drop=True)
+
+    label0df.to_csv('./association_rule_df_label0.csv',index=False)    
+    label1df.to_csv('./association_rule_df_label1.csv',index=False)    
+
+
+

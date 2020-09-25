@@ -157,7 +157,7 @@ def time2fuzzification(df,membership_number,quantitative_atts):
     return df
 
 if __name__ =='__main__':
-    prefix = 5
+    prefix = 3
     membership_number = 5
     # df = pd.read_csv('../special_topics/data/hospital_billing.csv')
 
