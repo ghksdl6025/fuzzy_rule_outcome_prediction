@@ -1,0 +1,4 @@
+Antecedents,Consequent,Support
+"['Activity1_register submission date request', 'Cumduration_4_M', 'Duration_3_M']",Label_1,0.90427
+"['Activity1_register submission date request', 'Cumduration_4_M', 'Duration_3_M', 'Time1_Short']",Label_1,0.90427
+"['Cumduration_4_M', 'Duration_3_M', 'Duration_4_M', 'Time1_Short']",Label_1,0.90082

@@ -1,0 +1,255 @@
+Antecedents,Consequent,Support
+['(case) requestcomplete_True'],Label_0,0.98377
+['(case) caseprocedure_None'],Label_0,0.93506
+"['(case) requestcomplete_True', 'Time2_Long']",Label_0,0.95455
+"['(case) requestcomplete_True', 'Duration_5_M']",Label_0,0.95315
+"['(case) requestcomplete_True', 'Duration_8_M']",Label_0,0.9434
+"['(case) caseprocedure_None', 'Activity1_register submission date request']",Label_0,0.91721
+"['(case) caseprocedure_None', 'Time2_Long']",Label_0,0.91234
+"['(case) caseprocedure_None', 'Duration_6_M']",Label_0,0.90718
+"['Duration_6_M', 'Duration_7_M']",Label_0,0.92891
+"['(case) requestcomplete_True', 'Duration_3_M']",Label_0,0.95652
+"['(case) requestcomplete_True', 'Duration_4_M']",Label_0,0.96455
+"['(case) caseprocedure_None', 'Time1_Short']",Label_0,0.93506
+"['(case) requestcomplete_True', 'Duration_6_M']",Label_0,0.95426
+"['(case) caseprocedure_None', 'Duration_5_M']",Label_0,0.90932
+"['(case) caseprocedure_None', 'Duration_8_M']",Label_0,0.90444
+"['(case) caseprocedure_None', 'Duration_3_M']",Label_0,0.91372
+"['(case) requestcomplete_True', 'Duration_7_M']",Label_0,0.93827
+"['(case) caseprocedure_None', '(case) requestcomplete_True']",Label_0,0.92208
+"['(case) caseprocedure_None', 'Duration_4_M']",Label_0,0.92216
+"['(case) requestcomplete_True', 'Activity1_register submission date request']",Label_0,0.96104
+"['(case) requestcomplete_True', 'Time1_Short']",Label_0,0.98214
+"['(case) requestcomplete_True', 'Duration_4_M', 'Time1_Short']",Label_0,0.96292
+"['(case) caseprocedure_None', 'Time1_Short', 'Time2_Long']",Label_0,0.91234
+"['(case) requestcomplete_True', 'Duration_3_M', 'Duration_8_M']",Label_0,0.9178
+"['Duration_6_M', 'Duration_7_M', 'Time1_Short']",Label_0,0.92729
+"['(case) caseprocedure_None', 'Activity1_register submission date request', 'Duration_3_M']",Label_0,0.90138
+"['(case) caseprocedure_None', 'Activity1_register submission date request', 'Time1_Short']",Label_0,0.91721
+"['Duration_6_M', 'Duration_7_M', 'Time2_Long']",Label_0,0.90835
+"['(case) requestcomplete_True', 'Activity1_register submission date request', 'Duration_5_M']",Label_0,0.93107
+"['(case) caseprocedure_None', 'Duration_4_M', 'Time1_Short']",Label_0,0.92216
+"['(case) requestcomplete_True', 'Duration_5_M', 'Duration_7_M']",Label_0,0.9114
+"['(case) requestcomplete_True', 'Duration_3_M', 'Duration_7_M']",Label_0,0.9148
+"['Duration_3_M', 'Duration_6_M', 'Duration_7_M']",Label_0,0.90969
+"['(case) requestcomplete_True', 'Duration_5_M', 'Time1_Short']",Label_0,0.95153
+"['(case) requestcomplete_True', 'Duration_8_M', 'Time2_Long']",Label_0,0.91581
+"['Duration_3_M', 'Duration_6_M', 'Duration_8_M']",Label_0,0.90781
+"['(case) requestcomplete_True', 'Duration_6_M', 'Duration_7_M']",Label_0,0.91268
+"['Duration_3_M', 'Duration_5_M', 'Duration_7_M']",Label_0,0.90871
+"['(case) requestcomplete_True', 'Duration_3_M', 'Time2_Long']",Label_0,0.94025
+"['(case) requestcomplete_True', 'Activity1_register submission date request', 'Time1_Short']",Label_0,0.96104
+"['(case) caseprocedure_None', '(case) requestcomplete_True', 'Activity1_register submission date request']",Label_0,0.90422
+"['Duration_4_M', 'Duration_6_M', 'Time2_Long']",Label_0,0.92908
+"['(case) requestcomplete_True', 'Duration_5_M', 'Duration_6_M']",Label_0,0.92743
+"['(case) requestcomplete_True', 'Duration_4_M', 'Duration_5_M']",Label_0,0.94048
+"['(case) requestcomplete_True', 'Activity1_register submission date request', 'Duration_8_M']",Label_0,0.9223
+"['Duration_3_M', 'Duration_4_M', 'Duration_7_M']",Label_0,0.92072
+"['(case) requestcomplete_True', 'Duration_7_M', 'Duration_8_M']",Label_0,0.90204
+"['(case) caseprocedure_None', 'Duration_4_M', 'Time2_Long']",Label_0,0.90105
+"['(case) requestcomplete_True', 'Duration_4_M', 'Duration_7_M']",Label_0,0.92139
+"['Duration_5_M', 'Duration_6_M', 'Duration_8_M']",Label_0,0.9028
+"['Duration_5_M', 'Duration_6_M', 'Time2_Long']",Label_0,0.91931
+"['(case) requestcomplete_True', 'Activity1_register submission date request', 'Duration_7_M']",Label_0,0.91716
+"['(case) requestcomplete_True', 'Duration_4_M', 'Duration_6_M']",Label_0,0.9372
+"['Activity1_register submission date request', 'Duration_6_M', 'Duration_7_M']",Label_0,0.90828
+"['(case) requestcomplete_True', 'Duration_5_M', 'Time2_Long']",Label_0,0.92718
+"['(case) requestcomplete_True', 'Duration_5_M', 'Duration_8_M']",Label_0,0.91279
+"['(case) requestcomplete_True', 'Duration_6_M', 'Time1_Short']",Label_0,0.95263
+"['Duration_3_M', 'Duration_5_M', 'Duration_6_M']",Label_0,0.92465
+"['(case) caseprocedure_None', '(case) requestcomplete_True', 'Duration_4_M']",Label_0,0.90917
+"['Duration_4_M', 'Duration_7_M', 'Time2_Long']",Label_0,0.91652
+"['(case) requestcomplete_True', 'Duration_6_M', 'Time2_Long']",Label_0,0.92882
+"['(case) requestcomplete_True', 'Duration_6_M', 'Duration_8_M']",Label_0,0.91502
+"['(case) caseprocedure_None', 'Activity1_register submission date request', 'Duration_4_M']",Label_0,0.9043
+"['(case) requestcomplete_True', 'Duration_4_M', 'Duration_8_M']",Label_0,0.92418
+"['(case) caseprocedure_None', 'Duration_5_M', 'Time1_Short']",Label_0,0.90932
+"['(case) caseprocedure_None', 'Duration_3_M', 'Time1_Short']",Label_0,0.91372
+"['(case) requestcomplete_True', 'Activity1_register submission date request', 'Duration_4_M']",Label_0,0.94344
+"['Duration_6_M', 'Duration_8_M', 'Time2_Long']",Label_0,0.90581
+"['Duration_4_M', 'Duration_6_M', 'Duration_8_M']",Label_0,0.91257
+"['(case) requestcomplete_True', 'Duration_3_M', 'Duration_6_M']",Label_0,0.93126
+"['(case) requestcomplete_True', 'Time1_Short', 'Time2_Long']",Label_0,0.95455
+"['(case) requestcomplete_True', 'Activity1_register submission date request', 'Time2_Long']",Label_0,0.93831
+"['Duration_5_M', 'Duration_6_M', 'Duration_7_M']",Label_0,0.90583
+"['Duration_4_M', 'Duration_5_M', 'Duration_7_M']",Label_0,0.91607
+"['(case) requestcomplete_True', 'Duration_7_M', 'Time2_Long']",Label_0,0.91392
+"['(case) requestcomplete_True', 'Duration_3_M', 'Time1_Short']",Label_0,0.9549
+"['(case) requestcomplete_True', 'Duration_3_M', 'Duration_5_M']",Label_0,0.93205
+"['(case) caseprocedure_None', 'Duration_8_M', 'Time1_Short']",Label_0,0.90444
+"['(case) requestcomplete_True', 'Duration_7_M', 'Time1_Short']",Label_0,0.93664
+"['(case) caseprocedure_None', 'Duration_3_M', 'Duration_4_M']",Label_0,0.90309
+"['Duration_4_M', 'Duration_6_M', 'Duration_7_M']",Label_0,0.9142
+"['(case) caseprocedure_None', 'Duration_6_M', 'Time1_Short']",Label_0,0.90718
+"['(case) requestcomplete_True', 'Activity1_register submission date request', 'Duration_3_M']",Label_0,0.94054
+"['(case) requestcomplete_True', 'Duration_8_M', 'Time1_Short']",Label_0,0.94178
+"['(case) caseprocedure_None', 'Duration_3_M', 'Time2_Long']",Label_0,0.90231
+"['(case) requestcomplete_True', 'Duration_3_M', 'Duration_4_M']",Label_0,0.94386
+"['Duration_3_M', 'Duration_4_M', 'Duration_6_M']",Label_0,0.93483
+"['Duration_4_M', 'Duration_5_M', 'Duration_6_M']",Label_0,0.93099
+"['(case) requestcomplete_True', 'Duration_4_M', 'Time2_Long']",Label_0,0.93857
+"['(case) caseprocedure_None', '(case) requestcomplete_True', 'Time1_Short']",Label_0,0.92208
+"['(case) caseprocedure_None', '(case) requestcomplete_True', 'Duration_3_M']",Label_0,0.90073
+"['(case) requestcomplete_True', 'Activity1_register submission date request', 'Duration_6_M']",Label_0,0.932
+"['Duration_5_M', 'Duration_7_M', 'Time2_Long']",Label_0,0.90653
+"['(case) requestcomplete_True', 'Duration_7_M', 'Duration_8_M', 'Time1_Short']",Label_0,0.90041
+"['(case) requestcomplete_True', 'Duration_3_M', 'Duration_4_M', 'Duration_7_M']",Label_0,0.90448
+"['(case) requestcomplete_True', 'Activity1_register submission date request', 'Duration_3_M', 'Duration_6_M']",Label_0,0.91528
+"['(case) requestcomplete_True', 'Activity1_register submission date request', 'Duration_4_M', 'Time1_Short']",Label_0,0.94344
+"['Duration_5_M', 'Duration_7_M', 'Time1_Short', 'Time2_Long']",Label_0,0.90653
+"['(case) requestcomplete_True', 'Duration_3_M', 'Duration_5_M', 'Duration_6_M']",Label_0,0.90842
+"['(case) requestcomplete_True', 'Duration_5_M', 'Time1_Short', 'Time2_Long']",Label_0,0.92718
+"['Activity1_register submission date request', 'Duration_3_M', 'Duration_5_M', 'Duration_6_M']",Label_0,0.90931
+"['Activity1_register submission date request', 'Duration_4_M', 'Duration_6_M', 'Time2_Long']",Label_0,0.91493
+"['(case) requestcomplete_True', 'Activity1_register submission date request', 'Duration_8_M', 'Time1_Short']",Label_0,0.9223
+"['(case) requestcomplete_True', 'Activity1_register submission date request', 'Duration_3_M', 'Time1_Short']",Label_0,0.94054
+"['Duration_3_M', 'Duration_4_M', 'Duration_6_M', 'Time1_Short']",Label_0,0.93321
+"['(case) requestcomplete_True', 'Activity1_register submission date request', 'Duration_4_M', 'Duration_5_M']",Label_0,0.92003
+"['Duration_5_M', 'Duration_6_M', 'Time1_Short', 'Time2_Long']",Label_0,0.91931
+"['(case) caseprocedure_None', 'Duration_3_M', 'Duration_4_M', 'Time1_Short']",Label_0,0.90309
+"['(case) requestcomplete_True', 'Duration_5_M', 'Duration_7_M', 'Time1_Short']",Label_0,0.90978
+"['(case) requestcomplete_True', 'Duration_3_M', 'Duration_4_M', 'Time2_Long']",Label_0,0.92758
+"['(case) requestcomplete_True', 'Duration_8_M', 'Time1_Short', 'Time2_Long']",Label_0,0.91581
+"['(case) caseprocedure_None', 'Activity1_register submission date request', 'Duration_3_M', 'Time1_Short']",Label_0,0.90138
+"['(case) requestcomplete_True', 'Activity1_register submission date request', 'Duration_3_M', 'Duration_5_M']",Label_0,0.91672
+"['(case) requestcomplete_True', 'Duration_3_M', 'Duration_8_M', 'Time1_Short']",Label_0,0.91618
+"['Duration_3_M', 'Duration_4_M', 'Duration_7_M', 'Time2_Long']",Label_0,0.90714
+"['Duration_6_M', 'Duration_7_M', 'Time1_Short', 'Time2_Long']",Label_0,0.90835
+"['(case) requestcomplete_True', 'Duration_6_M', 'Time1_Short', 'Time2_Long']",Label_0,0.92882
+"['(case) requestcomplete_True', 'Duration_3_M', 'Duration_6_M', 'Time2_Long']",Label_0,0.91498
+"['(case) requestcomplete_True', 'Activity1_register submission date request', 'Duration_5_M', 'Time1_Short']",Label_0,0.93107
+"['(case) requestcomplete_True', 'Duration_4_M', 'Duration_8_M', 'Time1_Short']",Label_0,0.92256
+"['(case) requestcomplete_True', 'Duration_6_M', 'Duration_8_M', 'Time1_Short']",Label_0,0.9134
+"['(case) caseprocedure_None', 'Duration_3_M', 'Time1_Short', 'Time2_Long']",Label_0,0.90231
+"['(case) requestcomplete_True', 'Activity1_register submission date request', 'Duration_4_M', 'Duration_8_M']",Label_0,0.9047
+"['(case) requestcomplete_True', 'Activity1_register submission date request', 'Duration_5_M', 'Duration_6_M']",Label_0,0.90581
+"['Duration_3_M', 'Duration_5_M', 'Duration_6_M', 'Time2_Long']",Label_0,0.90837
+"['Duration_3_M', 'Duration_5_M', 'Duration_6_M', 'Time1_Short']",Label_0,0.92303
+"['(case) requestcomplete_True', 'Duration_4_M', 'Duration_7_M', 'Time2_Long']",Label_0,0.90029
+"['(case) requestcomplete_True', 'Activity1_register submission date request', 'Duration_3_M', 'Duration_8_M']",Label_0,0.90181
+"['(case) requestcomplete_True', 'Duration_3_M', 'Duration_5_M', 'Time1_Short']",Label_0,0.93043
+"['Duration_3_M', 'Duration_5_M', 'Duration_7_M', 'Time1_Short']",Label_0,0.90709
+"['(case) caseprocedure_None', '(case) requestcomplete_True', 'Duration_4_M', 'Time1_Short']",Label_0,0.90917
+"['(case) requestcomplete_True', 'Duration_3_M', 'Duration_6_M', 'Time1_Short']",Label_0,0.92964
+"['(case) requestcomplete_True', 'Duration_7_M', 'Time1_Short', 'Time2_Long']",Label_0,0.91392
+"['Duration_3_M', 'Duration_6_M', 'Duration_7_M', 'Time1_Short']",Label_0,0.90807
+"['(case) requestcomplete_True', 'Duration_4_M', 'Duration_5_M', 'Duration_6_M']",Label_0,0.91476
+"['Duration_3_M', 'Duration_4_M', 'Duration_5_M', 'Duration_7_M']",Label_0,0.90045
+"['(case) requestcomplete_True', 'Duration_5_M', 'Duration_8_M', 'Time1_Short']",Label_0,0.91117
+"['(case) requestcomplete_True', 'Duration_3_M', 'Duration_4_M', 'Duration_5_M']",Label_0,0.9227
+"['(case) requestcomplete_True', 'Duration_4_M', 'Duration_5_M', 'Time1_Short']",Label_0,0.93886
+"['(case) requestcomplete_True', 'Duration_5_M', 'Duration_6_M', 'Time1_Short']",Label_0,0.9258
+"['Activity1_register submission date request', 'Duration_3_M', 'Duration_4_M', 'Duration_7_M']",Label_0,0.90675
+"['Duration_4_M', 'Duration_5_M', 'Duration_7_M', 'Time1_Short']",Label_0,0.91444
+"['Duration_5_M', 'Duration_6_M', 'Duration_7_M', 'Time1_Short']",Label_0,0.90421
+"['(case) requestcomplete_True', 'Activity1_register submission date request', 'Duration_3_M', 'Duration_4_M']",Label_0,0.92827
+"['(case) requestcomplete_True', 'Duration_6_M', 'Duration_7_M', 'Time1_Short']",Label_0,0.91106
+"['(case) requestcomplete_True', 'Duration_3_M', 'Duration_7_M', 'Time2_Long']",Label_0,0.90122
+"['(case) requestcomplete_True', 'Duration_3_M', 'Duration_4_M', 'Time1_Short']",Label_0,0.94224
+"['Duration_4_M', 'Duration_6_M', 'Time1_Short', 'Time2_Long']",Label_0,0.92908
+"['Duration_3_M', 'Duration_4_M', 'Duration_7_M', 'Time1_Short']",Label_0,0.91909
+"['(case) requestcomplete_True', 'Activity1_register submission date request', 'Duration_3_M', 'Time2_Long']",Label_0,0.93074
+"['Duration_3_M', 'Duration_6_M', 'Duration_8_M', 'Time1_Short']",Label_0,0.90618
+"['(case) requestcomplete_True', 'Duration_5_M', 'Duration_6_M', 'Time2_Long']",Label_0,0.90307
+"['(case) requestcomplete_True', 'Duration_4_M', 'Duration_5_M', 'Duration_8_M']",Label_0,0.90012
+"['(case) requestcomplete_True', 'Activity1_register submission date request', 'Duration_8_M', 'Time2_Long']",Label_0,0.9012
+"['(case) requestcomplete_True', 'Activity1_register submission date request', 'Duration_4_M', 'Duration_6_M']",Label_0,0.91656
+"['Activity1_register submission date request', 'Duration_4_M', 'Duration_5_M', 'Duration_6_M']",Label_0,0.911
+"['(case) caseprocedure_None', 'Activity1_register submission date request', 'Duration_4_M', 'Time1_Short']",Label_0,0.9043
+"['(case) requestcomplete_True', 'Duration_3_M', 'Duration_4_M', 'Duration_8_M']",Label_0,0.90514
+"['(case) requestcomplete_True', 'Activity1_register submission date request', 'Duration_4_M', 'Duration_7_M']",Label_0,0.90191
+"['Activity1_register submission date request', 'Duration_3_M', 'Duration_4_M', 'Duration_6_M']",Label_0,0.91925
+"['(case) requestcomplete_True', 'Activity1_register submission date request', 'Duration_4_M', 'Time2_Long']",Label_0,0.92396
+"['Activity1_register submission date request', 'Duration_4_M', 'Duration_7_M', 'Time2_Long']",Label_0,0.90191
+"['(case) requestcomplete_True', 'Duration_3_M', 'Duration_4_M', 'Duration_6_M']",Label_0,0.9186
+"['(case) requestcomplete_True', 'Activity1_register submission date request', 'Duration_7_M', 'Time1_Short']",Label_0,0.91716
+"['Duration_3_M', 'Duration_4_M', 'Duration_5_M', 'Duration_6_M']",Label_0,0.91529
+"['Duration_5_M', 'Duration_6_M', 'Duration_8_M', 'Time1_Short']",Label_0,0.90117
+"['Duration_4_M', 'Duration_7_M', 'Time1_Short', 'Time2_Long']",Label_0,0.91652
+"['(case) caseprocedure_None', '(case) requestcomplete_True', 'Activity1_register submission date request', 'Time1_Short']",Label_0,0.90422
+"['(case) requestcomplete_True', 'Duration_3_M', 'Duration_8_M', 'Time2_Long']",Label_0,0.90313
+"['(case) requestcomplete_True', 'Duration_4_M', 'Time1_Short', 'Time2_Long']",Label_0,0.93857
+"['(case) caseprocedure_None', 'Duration_4_M', 'Time1_Short', 'Time2_Long']",Label_0,0.90105
+"['(case) requestcomplete_True', 'Activity1_register submission date request', 'Duration_6_M', 'Time2_Long']",Label_0,0.91305
+"['Duration_4_M', 'Duration_5_M', 'Duration_6_M', 'Time1_Short']",Label_0,0.92937
+"['(case) requestcomplete_True', 'Activity1_register submission date request', 'Duration_3_M', 'Duration_7_M']",Label_0,0.90044
+"['(case) requestcomplete_True', 'Activity1_register submission date request', 'Duration_5_M', 'Time2_Long']",Label_0,0.91159
+"['(case) requestcomplete_True', 'Duration_4_M', 'Duration_6_M', 'Time1_Short']",Label_0,0.93557
+"['Duration_4_M', 'Duration_6_M', 'Duration_7_M', 'Time1_Short']",Label_0,0.91257
+"['(case) requestcomplete_True', 'Duration_3_M', 'Duration_7_M', 'Time1_Short']",Label_0,0.91318
+"['(case) requestcomplete_True', 'Duration_4_M', 'Duration_5_M', 'Time2_Long']",Label_0,0.91451
+"['(case) caseprocedure_None', '(case) requestcomplete_True', 'Duration_3_M', 'Time1_Short']",Label_0,0.90073
+"['(case) requestcomplete_True', 'Duration_3_M', 'Time1_Short', 'Time2_Long']",Label_0,0.94025
+"['Activity1_register submission date request', 'Duration_5_M', 'Duration_6_M', 'Time2_Long']",Label_0,0.90419
+"['(case) requestcomplete_True', 'Duration_4_M', 'Duration_6_M', 'Time2_Long']",Label_0,0.91285
+"['Duration_4_M', 'Duration_5_M', 'Duration_6_M', 'Time2_Long']",Label_0,0.90664
+"['(case) requestcomplete_True', 'Duration_3_M', 'Duration_5_M', 'Time2_Long']",Label_0,0.91578
+"['(case) requestcomplete_True', 'Activity1_register submission date request', 'Time1_Short', 'Time2_Long']",Label_0,0.93831
+"['(case) requestcomplete_True', 'Activity1_register submission date request', 'Duration_6_M', 'Time1_Short']",Label_0,0.932
+"['(case) requestcomplete_True', 'Duration_4_M', 'Duration_7_M', 'Time1_Short']",Label_0,0.91977
+"['Duration_6_M', 'Duration_8_M', 'Time1_Short', 'Time2_Long']",Label_0,0.90581
+"['Duration_3_M', 'Duration_4_M', 'Duration_6_M', 'Time2_Long']",Label_0,0.91856
+"['Activity1_register submission date request', 'Duration_6_M', 'Duration_7_M', 'Time1_Short']",Label_0,0.90828
+"['Duration_4_M', 'Duration_6_M', 'Duration_8_M', 'Time1_Short']",Label_0,0.91094
+"['(case) requestcomplete_True', 'Duration_5_M', 'Duration_6_M', 'Time1_Short', 'Time2_Long']",Label_0,0.90307
+"['Activity1_register submission date request', 'Duration_3_M', 'Duration_5_M', 'Duration_6_M', 'Time1_Short']",Label_0,0.90931
+"['(case) requestcomplete_True', 'Duration_3_M', 'Duration_5_M', 'Duration_6_M', 'Time1_Short']",Label_0,0.90679
+"['(case) requestcomplete_True', 'Activity1_register submission date request', 'Duration_8_M', 'Time1_Short', 'Time2_Long']",Label_0,0.9012
+"['(case) requestcomplete_True', 'Duration_3_M', 'Duration_4_M', 'Duration_5_M', 'Time1_Short']",Label_0,0.92107
+"['(case) requestcomplete_True', 'Activity1_register submission date request', 'Duration_4_M', 'Time1_Short', 'Time2_Long']",Label_0,0.92396
+"['Duration_3_M', 'Duration_4_M', 'Duration_5_M', 'Duration_6_M', 'Time1_Short']",Label_0,0.91367
+"['(case) requestcomplete_True', 'Activity1_register submission date request', 'Duration_4_M', 'Duration_5_M', 'Time1_Short']",Label_0,0.92003
+"['(case) requestcomplete_True', 'Duration_3_M', 'Duration_4_M', 'Time1_Short', 'Time2_Long']",Label_0,0.92758
+"['(case) requestcomplete_True', 'Activity1_register submission date request', 'Duration_4_M', 'Duration_6_M', 'Time1_Short']",Label_0,0.91656
+"['(case) requestcomplete_True', 'Activity1_register submission date request', 'Duration_5_M', 'Time1_Short', 'Time2_Long']",Label_0,0.91159
+"['(case) requestcomplete_True', 'Duration_3_M', 'Duration_4_M', 'Duration_8_M', 'Time1_Short']",Label_0,0.90351
+"['(case) requestcomplete_True', 'Activity1_register submission date request', 'Duration_3_M', 'Duration_5_M', 'Time1_Short']",Label_0,0.91672
+"['(case) requestcomplete_True', 'Activity1_register submission date request', 'Duration_3_M', 'Duration_4_M', 'Duration_6_M']",Label_0,0.90301
+"['(case) requestcomplete_True', 'Duration_4_M', 'Duration_6_M', 'Time1_Short', 'Time2_Long']",Label_0,0.91285
+"['(case) requestcomplete_True', 'Duration_4_M', 'Duration_7_M', 'Time1_Short', 'Time2_Long']",Label_0,0.90029
+"['(case) requestcomplete_True', 'Activity1_register submission date request', 'Duration_4_M', 'Duration_8_M', 'Time1_Short']",Label_0,0.9047
+"['Duration_3_M', 'Duration_5_M', 'Duration_6_M', 'Time1_Short', 'Time2_Long']",Label_0,0.90837
+"['(case) requestcomplete_True', 'Activity1_register submission date request', 'Duration_3_M', 'Duration_8_M', 'Time1_Short']",Label_0,0.90181
+"['Activity1_register submission date request', 'Duration_5_M', 'Duration_6_M', 'Time1_Short', 'Time2_Long']",Label_0,0.90419
+"['(case) requestcomplete_True', 'Duration_4_M', 'Duration_5_M', 'Duration_6_M', 'Time1_Short']",Label_0,0.91313
+"['(case) requestcomplete_True', 'Duration_3_M', 'Duration_7_M', 'Time1_Short', 'Time2_Long']",Label_0,0.90122
+"['(case) requestcomplete_True', 'Activity1_register submission date request', 'Duration_3_M', 'Duration_4_M', 'Time1_Short']",Label_0,0.92827
+"['(case) requestcomplete_True', 'Duration_3_M', 'Duration_4_M', 'Duration_7_M', 'Time1_Short']",Label_0,0.90286
+"['(case) requestcomplete_True', 'Activity1_register submission date request', 'Duration_3_M', 'Duration_6_M', 'Time1_Short']",Label_0,0.91528
+"['Activity1_register submission date request', 'Duration_4_M', 'Duration_5_M', 'Duration_6_M', 'Time1_Short']",Label_0,0.911
+"['(case) requestcomplete_True', 'Duration_3_M', 'Duration_4_M', 'Duration_6_M', 'Time2_Long']",Label_0,0.90232
+"['Activity1_register submission date request', 'Duration_3_M', 'Duration_4_M', 'Duration_6_M', 'Time1_Short']",Label_0,0.91925
+"['(case) requestcomplete_True', 'Duration_3_M', 'Duration_4_M', 'Duration_5_M', 'Time2_Long']",Label_0,0.90642
+"['Activity1_register submission date request', 'Duration_4_M', 'Duration_6_M', 'Time1_Short', 'Time2_Long']",Label_0,0.91493
+"['(case) requestcomplete_True', 'Duration_3_M', 'Duration_6_M', 'Time1_Short', 'Time2_Long']",Label_0,0.91498
+"['(case) requestcomplete_True', 'Activity1_register submission date request', 'Duration_4_M', 'Duration_7_M', 'Time1_Short']",Label_0,0.90191
+"['(case) requestcomplete_True', 'Duration_3_M', 'Duration_8_M', 'Time1_Short', 'Time2_Long']",Label_0,0.90313
+"['Activity1_register submission date request', 'Duration_4_M', 'Duration_7_M', 'Time1_Short', 'Time2_Long']",Label_0,0.90191
+"['(case) requestcomplete_True', 'Duration_3_M', 'Duration_4_M', 'Duration_6_M', 'Time1_Short']",Label_0,0.91698
+"['(case) requestcomplete_True', 'Activity1_register submission date request', 'Duration_3_M', 'Duration_5_M', 'Time2_Long']",Label_0,0.90692
+"['(case) requestcomplete_True', 'Activity1_register submission date request', 'Duration_3_M', 'Duration_6_M', 'Time2_Long']",Label_0,0.90548
+"['(case) requestcomplete_True', 'Activity1_register submission date request', 'Duration_6_M', 'Time1_Short', 'Time2_Long']",Label_0,0.91305
+"['(case) requestcomplete_True', 'Activity1_register submission date request', 'Duration_3_M', 'Duration_4_M', 'Duration_5_M']",Label_0,0.90776
+"['(case) requestcomplete_True', 'Activity1_register submission date request', 'Duration_4_M', 'Duration_5_M', 'Time2_Long']",Label_0,0.90055
+"['Duration_3_M', 'Duration_4_M', 'Duration_7_M', 'Time1_Short', 'Time2_Long']",Label_0,0.90714
+"['(case) requestcomplete_True', 'Activity1_register submission date request', 'Duration_3_M', 'Duration_7_M', 'Time1_Short']",Label_0,0.90044
+"['Activity1_register submission date request', 'Duration_3_M', 'Duration_4_M', 'Duration_6_M', 'Time2_Long']",Label_0,0.90945
+"['(case) requestcomplete_True', 'Duration_4_M', 'Duration_5_M', 'Time1_Short', 'Time2_Long']",Label_0,0.91451
+"['(case) requestcomplete_True', 'Activity1_register submission date request', 'Duration_3_M', 'Duration_4_M', 'Time2_Long']",Label_0,0.91847
+"['Activity1_register submission date request', 'Duration_3_M', 'Duration_4_M', 'Duration_5_M', 'Duration_6_M']",Label_0,0.90035
+"['(case) requestcomplete_True', 'Duration_3_M', 'Duration_5_M', 'Time1_Short', 'Time2_Long']",Label_0,0.91578
+"['Activity1_register submission date request', 'Duration_3_M', 'Duration_4_M', 'Duration_7_M', 'Time1_Short']",Label_0,0.90675
+"['(case) requestcomplete_True', 'Activity1_register submission date request', 'Duration_5_M', 'Duration_6_M', 'Time1_Short']",Label_0,0.90581
+"['Duration_4_M', 'Duration_5_M', 'Duration_6_M', 'Time1_Short', 'Time2_Long']",Label_0,0.90664
+"['(case) requestcomplete_True', 'Activity1_register submission date request', 'Duration_3_M', 'Time1_Short', 'Time2_Long']",Label_0,0.93074
+"['Duration_3_M', 'Duration_4_M', 'Duration_6_M', 'Time1_Short', 'Time2_Long']",Label_0,0.91856
+"['(case) requestcomplete_True', 'Duration_3_M', 'Duration_4_M', 'Duration_5_M', 'Time1_Short', 'Time2_Long']",Label_0,0.90642
+"['(case) requestcomplete_True', 'Activity1_register submission date request', 'Duration_3_M', 'Duration_4_M', 'Duration_5_M', 'Time1_Short']",Label_0,0.90776
+"['(case) requestcomplete_True', 'Activity1_register submission date request', 'Duration_3_M', 'Duration_4_M', 'Duration_6_M', 'Time1_Short']",Label_0,0.90301
+"['(case) requestcomplete_True', 'Activity1_register submission date request', 'Duration_3_M', 'Duration_4_M', 'Time1_Short', 'Time2_Long']",Label_0,0.91847
+"['(case) requestcomplete_True', 'Activity1_register submission date request', 'Duration_3_M', 'Duration_5_M', 'Time1_Short', 'Time2_Long']",Label_0,0.90692
+"['(case) requestcomplete_True', 'Duration_3_M', 'Duration_4_M', 'Duration_6_M', 'Time1_Short', 'Time2_Long']",Label_0,0.90232
+"['(case) requestcomplete_True', 'Activity1_register submission date request', 'Duration_4_M', 'Duration_5_M', 'Time1_Short', 'Time2_Long']",Label_0,0.90055
+"['Activity1_register submission date request', 'Duration_3_M', 'Duration_4_M', 'Duration_6_M', 'Time1_Short', 'Time2_Long']",Label_0,0.90945
+"['Activity1_register submission date request', 'Duration_3_M', 'Duration_4_M', 'Duration_5_M', 'Duration_6_M', 'Time1_Short']",Label_0,0.90035
+"['(case) requestcomplete_True', 'Activity1_register submission date request', 'Duration_3_M', 'Duration_6_M', 'Time1_Short', 'Time2_Long']",Label_0,0.90548

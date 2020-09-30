@@ -1,0 +1,3 @@
+Antecedents,Consequent,Support
+['(case) requestcomplete_False'],Label_1,0.81517
+"['(case) requestcomplete_False', 'Activity1_register submission date request']",Label_1,0.81043

@@ -1,0 +1,17 @@
+Antecedents,Consequent,Support
+['(case) requestcomplete_True'],Label_0,0.98722
+"['(case) requestcomplete_True', 'Activity1_register submission date request']",Label_0,0.97284
+"['(case) caseprocedure_None', 'Duration_2_M']",Label_0,0.80507
+"['(case) requestcomplete_True', 'Duration_2_M']",Label_0,0.84404
+"['(case) caseprocedure_None', 'Cumduration_2_M']",Label_0,0.80507
+"['(case) caseprocedure_None', '(case) requestcomplete_True']",Label_0,0.92812
+"['(case) requestcomplete_True', 'Cumduration_2_M']",Label_0,0.84404
+"['(case) caseprocedure_None', 'Activity1_register submission date request', 'Duration_2_M']",Label_0,0.80128
+"['(case) requestcomplete_True', 'Cumduration_2_M', 'Duration_2_M']",Label_0,0.84404
+"['(case) caseprocedure_None', 'Cumduration_2_M', 'Duration_2_M']",Label_0,0.80507
+"['(case) requestcomplete_True', 'Activity1_register submission date request', 'Cumduration_2_M']",Label_0,0.83812
+"['(case) requestcomplete_True', 'Activity1_register submission date request', 'Duration_2_M']",Label_0,0.83812
+"['(case) caseprocedure_None', 'Activity1_register submission date request', 'Cumduration_2_M']",Label_0,0.80128
+"['(case) caseprocedure_None', '(case) requestcomplete_True', 'Activity1_register submission date request']",Label_0,0.91853
+"['(case) caseprocedure_None', 'Activity1_register submission date request', 'Cumduration_2_M', 'Duration_2_M']",Label_0,0.80128
+"['(case) requestcomplete_True', 'Activity1_register submission date request', 'Cumduration_2_M', 'Duration_2_M']",Label_0,0.83812

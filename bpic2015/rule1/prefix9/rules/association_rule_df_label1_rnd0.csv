@@ -1,0 +1,16 @@
+Antecedents,Consequent,Support
+['Cumduration_5_M'],Label_1,0.90611
+['Cumduration_3_M'],Label_1,0.90337
+"['Cumduration_5_M', 'Duration_3_M']",Label_1,0.90017
+"['Cumduration_4_M', 'Duration_5_M']",Label_1,0.90334
+"['Cumduration_5_M', 'Duration_5_M']",Label_1,0.90056
+"['Activity1_register submission date request', 'Cumduration_5_M']",Label_1,0.90611
+"['Activity1_register submission date request', 'Cumduration_3_M']",Label_1,0.90337
+"['Activity1_register submission date request', 'Cumduration_5_M', 'Duration_5_M']",Label_1,0.90056
+"['Duration_3_M', 'Duration_5_M', 'Duration_7_M']",Label_1,0.90376
+"['Cumduration_4_M', 'Duration_3_M', 'Duration_4_M']",Label_1,0.90263
+"['Activity1_register submission date request', 'Cumduration_5_M', 'Duration_3_M']",Label_1,0.90017
+"['Activity1_register submission date request', 'Cumduration_4_M', 'Duration_3_M']",Label_1,0.90987
+"['Activity1_register submission date request', 'Cumduration_4_M', 'Duration_5_M']",Label_1,0.90334
+"['Activity1_register submission date request', 'Duration_3_M', 'Duration_5_M', 'Duration_9_M']",Label_1,0.90188
+"['Activity1_register submission date request', 'Cumduration_4_M', 'Duration_3_M', 'Duration_4_M']",Label_1,0.90263

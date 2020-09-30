@@ -3,6 +3,7 @@ import pandas as pd
 from sklearn import preprocessing
 import numpy as np
 import math
+import os
 import sys
 pd.set_option('display.max_columns',20)
 sys.path.insert(0,'./Utils/')
@@ -157,12 +158,18 @@ def time2fuzzification(df,membership_number,quantitative_atts):
     return df
 
 if __name__ =='__main__':
-    prefix = 3
-    membership_number = 5
-    # df = pd.read_csv('../special_topics/data/hospital_billing.csv')
+    for prefix in range(2,11):
+    
+        membership_number = 5
+        # df = pd.read_csv('../special_topics/data/hospital_billing.csv')
 
-    df = pd.read_csv('../new paper/sepsis/Sepsis Cases_pre.csv')
-    df = pd.read_csv('../new paper/bpic2015/ltl1/BPIC15_1prep.csv')
-    normalized_time_df,quantitative_atts =normalize_atts(df,'Complete Timestamp',prefix,'SigmoidNormalize')    
-    fuzzified_df = time2fuzzification(normalized_time_df,membership_number,quantitative_atts)
-    fuzzified_df.to_csv('./bpic2015_fuzzified.csv',index=False)
+        df = pd.read_csv('../new paper/sepsis/Sepsis Cases_pre.csv')
+        df = pd.read_csv('../new paper/bpic2015/ltl1/BPIC15_1prep.csv')
+        normalized_time_df,quantitative_atts =normalize_atts(df,'Complete Timestamp',prefix,'SigmoidNormalize')    
+        fuzzified_df = time2fuzzification(normalized_time_df,membership_number,quantitative_atts)
+        
+        try:
+            os.makedirs('./bpic2015/rule1/prefix'+str(prefix))
+        except:
+            pass
+        fuzzified_df.to_csv('./bpic2015/rule1/prefix'+str(prefix)+'/bpic2015_fuzzified.csv',index=False)

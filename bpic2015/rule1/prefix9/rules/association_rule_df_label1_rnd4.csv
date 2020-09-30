@@ -1,0 +1,121 @@
+Antecedents,Consequent,Support
+['Cumduration_5_M'],Label_1,0.90699
+"['Activity1_register submission date request', 'Cumduration_5_M']",Label_1,0.90431
+"['Cumduration_4_M', 'Time2_Long']",Label_1,0.9076
+"['Cumduration_4_M', 'Duration_3_M']",Label_1,0.91263
+"['Cumduration_5_M', 'Time1_Short']",Label_1,0.90699
+"['Activity1_register submission date request', 'Cumduration_4_M']",Label_1,0.9159
+"['Cumduration_4_M', 'Duration_5_M']",Label_1,0.90512
+"['Cumduration_5_M', 'Duration_5_M']",Label_1,0.90232
+"['Cumduration_5_M', 'Duration_3_M']",Label_1,0.90248
+"['Cumduration_5_M', 'Duration_4_M']",Label_1,0.90336
+"['Cumduration_4_M', 'Duration_3_M', 'Time1_Short']",Label_1,0.91263
+"['Activity1_register submission date request', 'Duration_8_M', 'Duration_9_M']",Label_1,0.90461
+"['Activity1_register submission date request', 'Cumduration_5_M', 'Duration_4_M']",Label_1,0.90069
+"['Cumduration_5_M', 'Duration_5_M', 'Time1_Short']",Label_1,0.90232
+"['Cumduration_5_M', 'Duration_3_M', 'Time1_Short']",Label_1,0.90248
+"['Activity1_register submission date request', 'Cumduration_4_M', 'Duration_3_M']",Label_1,0.91117
+"['Activity1_register submission date request', 'Cumduration_4_M', 'Duration_5_M']",Label_1,0.90367
+"['Cumduration_4_M', 'Duration_3_M', 'Time2_Long']",Label_1,0.9076
+"['Duration_4_M', 'Duration_8_M', 'Time2_Long']",Label_1,0.90744
+"['Cumduration_4_M', 'Duration_5_M', 'Time1_Short']",Label_1,0.90512
+"['Cumduration_4_M', 'Duration_3_M', 'Duration_4_M']",Label_1,0.90548
+"['Cumduration_5_M', 'Duration_4_M', 'Time1_Short']",Label_1,0.90336
+"['Activity1_register submission date request', 'Cumduration_4_M', 'Time1_Short']",Label_1,0.9159
+"['Activity1_register submission date request', 'Cumduration_5_M', 'Time1_Short']",Label_1,0.90431
+"['Cumduration_4_M', 'Duration_3_M', 'Duration_5_M']",Label_1,0.9004
+"['Duration_8_M', 'Duration_9_M', 'Time2_Long']",Label_1,0.90153
+"['Cumduration_4_M', 'Time1_Short', 'Time2_Long']",Label_1,0.9076
+"['Activity1_register submission date request', 'Cumduration_4_M', 'Duration_4_M']",Label_1,0.90875
+"['Cumduration_4_M', 'Duration_4_M', 'Time2_Long']",Label_1,0.90244
+"['Activity1_register submission date request', 'Cumduration_4_M', 'Time2_Long']",Label_1,0.90615
+"['Duration_3_M', 'Duration_5_M', 'Duration_8_M']",Label_1,0.91772
+"['Duration_3_M', 'Duration_8_M', 'Duration_9_M']",Label_1,0.90652
+"['Cumduration_4_M', 'Duration_4_M', 'Duration_5_M']",Label_1,0.90217
+"['Duration_5_M', 'Duration_9_M', 'Time2_Long']",Label_1,0.9072
+"['Duration_5_M', 'Duration_8_M', 'Time2_Long']",Label_1,0.91273
+"['Activity1_register submission date request', 'Cumduration_4_M', 'Duration_3_M', 'Time1_Short']",Label_1,0.91117
+"['Duration_5_M', 'Duration_8_M', 'Time1_Short', 'Time2_Long']",Label_1,0.91273
+"['Activity1_register submission date request', 'Duration_3_M', 'Duration_5_M', 'Duration_8_M']",Label_1,0.90771
+"['Duration_3_M', 'Duration_8_M', 'Duration_9_M', 'Time1_Short']",Label_1,0.90652
+"['Cumduration_4_M', 'Duration_3_M', 'Duration_5_M', 'Time1_Short']",Label_1,0.9004
+"['Duration_4_M', 'Duration_8_M', 'Time1_Short', 'Time2_Long']",Label_1,0.90744
+"['Duration_3_M', 'Duration_5_M', 'Duration_8_M', 'Time1_Short']",Label_1,0.91772
+"['Activity1_register submission date request', 'Cumduration_4_M', 'Duration_3_M', 'Duration_4_M']",Label_1,0.90403
+"['Duration_3_M', 'Duration_5_M', 'Duration_9_M', 'Time2_Long']",Label_1,0.90716
+"['Duration_8_M', 'Duration_9_M', 'Time1_Short', 'Time2_Long']",Label_1,0.90153
+"['Cumduration_4_M', 'Duration_4_M', 'Time1_Short', 'Time2_Long']",Label_1,0.90244
+"['Duration_3_M', 'Duration_5_M', 'Duration_6_M', 'Time2_Long']",Label_1,0.91314
+"['Activity1_register submission date request', 'Cumduration_4_M', 'Time1_Short', 'Time2_Long']",Label_1,0.90615
+"['Duration_3_M', 'Duration_8_M', 'Duration_9_M', 'Time2_Long']",Label_1,0.90149
+"['Activity1_register submission date request', 'Duration_8_M', 'Duration_9_M', 'Time1_Short']",Label_1,0.90461
+"['Activity1_register submission date request', 'Cumduration_4_M', 'Duration_3_M', 'Time2_Long']",Label_1,0.90615
+"['Activity1_register submission date request', 'Cumduration_4_M', 'Duration_5_M', 'Time1_Short']",Label_1,0.90367
+"['Cumduration_4_M', 'Duration_4_M', 'Duration_5_M', 'Time1_Short']",Label_1,0.90217
+"['Duration_5_M', 'Duration_9_M', 'Time1_Short', 'Time2_Long']",Label_1,0.9072
+"['Cumduration_4_M', 'Duration_3_M', 'Duration_4_M', 'Time1_Short']",Label_1,0.90548
+"['Cumduration_4_M', 'Duration_3_M', 'Time1_Short', 'Time2_Long']",Label_1,0.9076
+"['Duration_3_M', 'Duration_4_M', 'Duration_8_M', 'Time1_Short']",Label_1,0.91044
+"['Cumduration_4_M', 'Duration_3_M', 'Duration_4_M', 'Time2_Long']",Label_1,0.90244
+"['Activity1_register submission date request', 'Cumduration_4_M', 'Duration_4_M', 'Time1_Short']",Label_1,0.90875
+"['Duration_3_M', 'Duration_4_M', 'Duration_8_M', 'Time2_Long']",Label_1,0.9074
+"['Activity1_register submission date request', 'Cumduration_4_M', 'Duration_4_M', 'Duration_5_M']",Label_1,0.90072
+"['Activity1_register submission date request', 'Duration_5_M', 'Duration_8_M', 'Time2_Long']",Label_1,0.90268
+"['Activity1_register submission date request', 'Duration_3_M', 'Duration_5_M', 'Duration_9_M']",Label_1,0.90217
+"['Activity1_register submission date request', 'Cumduration_4_M', 'Duration_4_M', 'Time2_Long']",Label_1,0.90099
+"['Duration_3_M', 'Duration_5_M', 'Duration_8_M', 'Time2_Long']",Label_1,0.91269
+"['Activity1_register submission date request', 'Cumduration_5_M', 'Duration_4_M', 'Time1_Short']",Label_1,0.90069
+"['Activity1_register submission date request', 'Duration_3_M', 'Duration_4_M', 'Duration_8_M']",Label_1,0.90043
+"['Activity1_register submission date request', 'Duration_5_M', 'Duration_6_M', 'Time2_Long']",Label_1,0.90313
+"['Activity1_register submission date request', 'Duration_3_M', 'Duration_8_M', 'Time2_Long']",Label_1,0.9274
+"['Duration_3_M', 'Duration_4_M', 'Duration_9_M', 'Time2_Long']",Label_1,0.9009
+"['Activity1_register submission date request', 'Duration_3_M', 'Duration_5_M', 'Duration_8_M', 'Time2_Long']",Label_1,0.90268
+"['Cumduration_4_M', 'Duration_3_M', 'Duration_4_M', 'Time1_Short', 'Time2_Long']",Label_1,0.90244
+"['Activity1_register submission date request', 'Duration_3_M', 'Duration_5_M', 'Duration_9_M', 'Time1_Short']",Label_1,0.90217
+"['Duration_3_M', 'Duration_4_M', 'Duration_8_M', 'Time1_Short', 'Time2_Long']",Label_1,0.9074
+"['Activity1_register submission date request', 'Cumduration_4_M', 'Duration_4_M', 'Time1_Short', 'Time2_Long']",Label_1,0.90099
+"['Duration_3_M', 'Duration_8_M', 'Duration_9_M', 'Time1_Short', 'Time2_Long']",Label_1,0.90149
+"['Activity1_register submission date request', 'Duration_5_M', 'Duration_6_M', 'Time1_Short', 'Time2_Long']",Label_1,0.90313
+"['Activity1_register submission date request', 'Duration_3_M', 'Duration_5_M', 'Duration_8_M', 'Time1_Short']",Label_1,0.90771
+"['Activity1_register submission date request', 'Duration_3_M', 'Duration_5_M', 'Duration_6_M', 'Time2_Long']",Label_1,0.90313
+"['Duration_3_M', 'Duration_4_M', 'Duration_9_M', 'Time1_Short', 'Time2_Long']",Label_1,0.9009
+"['Activity1_register submission date request', 'Cumduration_4_M', 'Duration_3_M', 'Duration_4_M', 'Time2_Long']",Label_1,0.90099
+"['Activity1_register submission date request', 'Cumduration_4_M', 'Duration_3_M', 'Duration_4_M', 'Time1_Short']",Label_1,0.90403
+"['Duration_3_M', 'Duration_5_M', 'Duration_9_M', 'Time1_Short', 'Time2_Long']",Label_1,0.90716
+"['Activity1_register submission date request', 'Duration_3_M', 'Duration_4_M', 'Duration_8_M', 'Time1_Short']",Label_1,0.90043
+"['Activity1_register submission date request', 'Cumduration_4_M', 'Duration_4_M', 'Duration_5_M', 'Time1_Short']",Label_1,0.90072
+"['Duration_3_M', 'Duration_5_M', 'Duration_6_M', 'Time1_Short', 'Time2_Long']",Label_1,0.91314
+"['Activity1_register submission date request', 'Cumduration_4_M', 'Duration_3_M', 'Time1_Short', 'Time2_Long']",Label_1,0.90615
+"['Activity1_register submission date request', 'Duration_5_M', 'Duration_8_M', 'Time1_Short', 'Time2_Long']",Label_1,0.90268
+"['Activity1_register submission date request', 'Duration_3_M', 'Duration_8_M', 'Time1_Short', 'Time2_Long']",Label_1,0.9274
+"['Duration_3_M', 'Duration_5_M', 'Duration_8_M', 'Time1_Short', 'Time2_Long']",Label_1,0.91269
+"['Activity1_register submission date request', 'Cumduration_4_M', 'Duration_3_M', 'Duration_4_M', 'Time1_Short', 'Time2_Long']",Label_1,0.90099
+"['Activity1_register submission date request', 'Duration_3_M', 'Duration_5_M', 'Duration_6_M', 'Time1_Short', 'Time2_Long']",Label_1,0.90313
+"['Activity1_register submission date request', 'Duration_3_M', 'Duration_5_M', 'Duration_8_M', 'Time1_Short', 'Time2_Long']",Label_1,0.90268
+"['Activity1_register submission date request', 'Duration_7_M', 'Duration_8_M']",Label_1,0.91268
+"['Duration_3_M', 'Duration_7_M', 'Duration_8_M']",Label_1,0.90761
+"['Duration_3_M', 'Duration_7_M', 'Duration_9_M']",Label_1,0.90352
+"['Duration_5_M', 'Duration_7_M', 'Time2_Long']",Label_1,0.91296
+"['Duration_7_M', 'Duration_8_M', 'Time2_Long']",Label_1,0.90765
+"['Activity1_register submission date request', 'Duration_7_M', 'Duration_9_M']",Label_1,0.90161
+"['Duration_6_M', 'Duration_7_M', 'Time2_Long']",Label_1,0.90267
+"['Duration_5_M', 'Duration_7_M', 'Time1_Short', 'Time2_Long']",Label_1,0.91296
+"['Duration_3_M', 'Duration_4_M', 'Duration_7_M', 'Time2_Long']",Label_1,0.90667
+"['Duration_7_M', 'Duration_8_M', 'Time1_Short', 'Time2_Long']",Label_1,0.90765
+"['Activity1_register submission date request', 'Duration_7_M', 'Duration_9_M', 'Time1_Short']",Label_1,0.90161
+"['Activity1_register submission date request', 'Duration_7_M', 'Duration_8_M', 'Time1_Short']",Label_1,0.91268
+"['Duration_6_M', 'Duration_7_M', 'Time1_Short', 'Time2_Long']",Label_1,0.90267
+"['Activity1_register submission date request', 'Duration_3_M', 'Duration_5_M', 'Duration_7_M']",Label_1,0.90794
+"['Duration_3_M', 'Duration_7_M', 'Duration_8_M', 'Time1_Short']",Label_1,0.90761
+"['Duration_3_M', 'Duration_7_M', 'Duration_8_M', 'Time2_Long']",Label_1,0.90258
+"['Activity1_register submission date request', 'Duration_5_M', 'Duration_7_M', 'Time2_Long']",Label_1,0.90291
+"['Duration_3_M', 'Duration_5_M', 'Duration_7_M', 'Time1_Short']",Label_1,0.91795
+"['Duration_3_M', 'Duration_5_M', 'Duration_7_M', 'Time2_Long']",Label_1,0.91292
+"['Duration_3_M', 'Duration_7_M', 'Duration_9_M', 'Time1_Short']",Label_1,0.90352
+"['Duration_3_M', 'Duration_4_M', 'Duration_7_M', 'Time1_Short', 'Time2_Long']",Label_1,0.90667
+"['Activity1_register submission date request', 'Duration_5_M', 'Duration_7_M', 'Time1_Short', 'Time2_Long']",Label_1,0.90291
+"['Duration_3_M', 'Duration_7_M', 'Duration_8_M', 'Time1_Short', 'Time2_Long']",Label_1,0.90258
+"['Activity1_register submission date request', 'Duration_3_M', 'Duration_5_M', 'Duration_7_M', 'Time2_Long']",Label_1,0.90291
+"['Activity1_register submission date request', 'Duration_3_M', 'Duration_5_M', 'Duration_7_M', 'Time1_Short']",Label_1,0.90794
+"['Duration_3_M', 'Duration_5_M', 'Duration_7_M', 'Time1_Short', 'Time2_Long']",Label_1,0.91292
+"['Activity1_register submission date request', 'Duration_3_M', 'Duration_5_M', 'Duration_7_M', 'Time1_Short', 'Time2_Long']",Label_1,0.90291
