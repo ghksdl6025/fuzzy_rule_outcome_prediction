@@ -117,9 +117,12 @@ def time2fuzzification(df,membership_number,quantitative_atts):
     ----------
     df : pandas dataframe
         Dataframe wtih quantitative attributes
+
     membership_number : int
         Number of membership class to make preferred names
-    
+
+    quantitative_atts : list
+        List of quantitative attributes to be fuzzified 
     Returns
     ----------
     Dataframe with fuzzified itemsets

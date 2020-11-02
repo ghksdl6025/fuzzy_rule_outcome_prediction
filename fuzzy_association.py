@@ -102,7 +102,7 @@ def fuzzy_frequent_itemset_mining(df,target_label,min_supp):
 
 if __name__ =='__main__':
     for rnd in range(0,1):
-        for prefix in range(4,5):
+        for prefix in range(5,6):
             print('Prefix', prefix, 'Random',rnd)
             dirname = './bpic2015/rule1/prefix'+str(prefix)
             try:

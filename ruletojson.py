@@ -4,8 +4,8 @@ import os
 import math
 import ast
 
-for rnd in range(5):
-    for prefix in range(2,11):
+for rnd in range(1):
+    for prefix in range(5,6):
         dirname = './bpic2015/rule1/ruleresult/ARM'
         inputpath = './bpic2015/rule1/prefix'+str(prefix)+'/rules/'
         label1df = pd.read_csv(inputpath+'/association_rule_df_label1_rnd'+str(rnd)+'.csv')
